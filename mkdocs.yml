@@ -1,0 +1,52 @@
+# Project information
+site_name: Thin Films LRP
+site_author: Pierre Tharreau
+site_description: >-
+    Site for easy browsing and organising of resources for the
+    "Stability of thin films and soap bubbles" LRP.
+
+# Directories
+docs_dir: 'Content'
+
+# Git repo information
+# repo_url: https://github.com/Loumstar/Mobius
+# repo_name: Nobius (private)
+
+# Page Tree
+nav:
+    - Home:
+      - index.md
+    - Notes:
+      - Notes.md
+    - Terms:
+      - Recurring.md
+    - Papers:
+      - Characteristics and Fundamental Interactions: Characteristics.md
+      - Interactions with external Environments: Interactions.md
+
+
+# Configuration
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+  palette:
+     scheme: default
+     primary: cyan
+     accent: amber
+  logo: assets/logo.png
+
+# Extensions
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - def_list
+  - attr_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
