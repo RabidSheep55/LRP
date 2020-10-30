@@ -21,14 +21,16 @@
 - Dynamics of bubble bursting (equations inelastic process at lip of growing hole due to mass buildup)
 - Bubble coalescence and merging
 - Bubble pinchoff events
+- surfactants responsible for espresso crema
 
 # Useful links
-<http://www.imperial.ac.uk/library/subject-support/mechanical-engineering/>
-<http://www.youtube.com/watch?v=Oa66AxTbjxA>
-<https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/library/public/Refworks-quick-guide.pdf>
-<https://www.imperial.ac.uk/admin-services/library/learning-support/reference-management/bibtex-for-latex/>
+- <http://www.imperial.ac.uk/library/subject-support/mechanical-engineering/>
+- <http://www.youtube.com/watch?v=Oa66AxTbjxA>
+- <https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/library/public/Refworks-quick-guide.pdf>
+- <https://www.imperial.ac.uk/admin-services/library/learning-support/reference-management/bibtex-for-latex/>
+- <https://citation.crosscite.org/> ?
 
-<https://citation.crosscite.org/> ?
+
 ## Search tools
 science direct
 engineering village
