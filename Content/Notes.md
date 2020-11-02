@@ -22,6 +22,7 @@
 - Bubble coalescence and merging
 - Bubble pinchoff events
 - surfactants responsible for espresso crema
+- layer structure which constitutes the thin film
 
 # Useful links
 - <http://www.imperial.ac.uk/library/subject-support/mechanical-engineering/>
