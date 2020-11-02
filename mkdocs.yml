@@ -9,8 +9,8 @@ site_description: >-
 docs_dir: 'Content'
 
 # Git repo information
-# repo_url: https://github.com/Loumstar/Mobius
-# repo_name: Nobius (private)
+repo_url: https://github.com/RabidSheep55/LRP
+repo_name: LRP (private)
 
 # Page Tree
 nav:
@@ -21,8 +21,12 @@ nav:
     - Terms:
       - Recurring.md
     - Papers:
-      - Characteristics and Fundamental Interactions: Characteristics.md
-      - Interactions with external Environments: Interactions.md
+      - Characteristics and Fundamental Interactions: Characteristics/Characteristics.md
+      - Interactions with external Environments:
+          - Stable Bubbles: Interactions/StableBubbles.md
+          - Bursting Bubbles: Interactions/BurstingBubbles.md
+      - Unsorted: UnsortedPapers.md
+
 
 
 # Configuration

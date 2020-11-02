@@ -13,11 +13,13 @@ Details, definitions and explanations for some of the terms used throughout the 
 Details, notes, citations and summaries for relevant papers classified into the two main parts of this LRP:
 
 - [Characteristics and Fundamental Interactions][3]
-- [Interactions with external Environments][4]
-
+- Interactions with external Environments
+    - [Stable bubbles][4]
+    - [Bursting (unstable) bubbles][5]
 
 
 [1]: Notes.md
 [2]: Recurring.md
-[3]: Characteristics.md
-[4]: Interactions.md
+[3]: Characteristics/Characteristics.md
+[4]: Interactions/StableBubbles.md
+[5]: Interactions/BurstingBubbles.md
