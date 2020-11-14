@@ -16,7 +16,26 @@ Doppler velocimetry (to get the velocities). Analysis of results and comparison 
 
 ## Introductory Lecture: Mechanics of soft interfaces  [:material-pdf-box:](https://doi.org/10.1039/fd9960400001){:target="_blank"}
 
-First part of the lecture is about the bursting of soap films. Outlines Culik's approach and developments made to expand it. Features a lot of mathematical and in depth explanations. 
+First part of the lecture is about the bursting of soap films. Outlines Culik's approach and developments made to expand it. Features a lot of mathematical and in depth explanations.
 
 ??? note "Citation"
     de Gennes P-G. Introductory lecture. Mechanics of soft interfaces. Faraday Disc [Internet]. 1996;104:1. Available from: http://dx.doi.org/10.1039/fd9960400001
+
+
+## Fluid instabilities in the birth and death of antibubbles [:material-pdf-box:](https://doi.org/10.1088/1367-2630/5/1/161){:target="_blank"}
+
+**The Laplace law**: Relating radius of curvature and pressure difference across a thin film. Describing the formation and collapse dynamics of anti-bubbles. *Use of a copper wire to remove the difference in potential in the bubble, causing it to be unstable.*.
+Both formation and death of these bubbles are due to fluid instabilities: birth occurs due to *Rayleigh-Plateau* instability when liquid jet occurs under the free surface, death causes difference in speed between fluid velocities inside and out and lead to *Rychtmeyer–Meshkov* instabilities.
+
+
+## Soap Films and Some Fundamentals of Thin-Liquid Films [:material-pdf-box:](https://doi.org/10.1007/BF02915337){:target="_blank"}
+
+Propose nomenclature for Monolayers and bilayers of thin films in general (both oil and water films). Early discussions about the dynamics of soap bubble bursting.
+
+
+## Bursting Bubble Aerosols [:material-pdf-box:](https://doi.org/10.1017/jfm.2011.418){:target="_blank"}
+*(cited by 110)*
+Behaviours of tapwater (similar to seawater) bubbles - NOT soap!!
+Main focus of the paper is to find out the quantitative aerosol produced when a water bubble bursts. "Aerosol" being the hundreds of small droplets which are produced when thin film disintegrates.
+
+(shows that effect of evaporation is negligible in lifetime and stability calculations)

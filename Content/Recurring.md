@@ -6,6 +6,10 @@ Molecules which lower the surface tension at fluid boundaries (fluid-fluid, flui
 Substance which separates into charged ions when dissolved in a polar solvent (e.g. water), causing the resulting solution to become electrically conducting.
 
 ## Rayleigh–Taylor destabilization and instability (Comes up a lot)
+arise when difference in density or velocity
+leaning to formation of waves and crests, common in thin films over a surface
+differences in density will cause waves to appear, thickness variations appear on the surface
+instability grows until crest thickness becomes too small and ligaments form
 
 ## Rheology
 

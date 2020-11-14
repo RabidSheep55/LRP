@@ -12,10 +12,8 @@
 
 ## Behaviours to look into?
 - Marangoni effect
-- Tears of wine (caused by the Marangoni effect)
 - Black spots and Newton black films
 - Isolated Vortices in Soap Bubbles
-- Can't not talk about thin film interference...
 - Interaction with EM fields
 - Role in heat transfer problems (boilers) not really soap bubbles though
 - Dynamics of bubble bursting (equations inelastic process at lip of growing hole due to mass buildup)
@@ -23,6 +21,7 @@
 - Bubble pinchoff events
 - surfactants responsible for espresso crema
 - layer structure which constitutes the thin film
+- liquid film drainage (thinning)
 
 # Useful links
 - <http://www.imperial.ac.uk/library/subject-support/mechanical-engineering/>
@@ -40,3 +39,31 @@ scorpus
 pubmed
 ieee explore
 ebsco
+
+
+## Storytelling
+a) General comments what is the focus of your study
+    - definition of thin film as liquid between two gases, or a gas between two liquids, or liquid between a gas and solid. Focus limited to a 3 fluids problem
+    - geometry: curved film (bubbles and anti-bubbles) or planar film
+    - liquid with multiple bubbles (foams, porous liquids)
+
+b) Describe curved films (soap bubbles) and their peculiarities
+    - role of surfactant, gravity, pressure,
+    - role of surface tension
+
+c) Interactions with the environment -> a this film or a  bubble is in general not always stable
+    - planar thin film -> formation of ligaments or droplets depending on the relative velocity with the environment
+    - Rayleigh-Taylor and Kelvin-Helmholtz instabilities
+    - a bubble could burst and related dynamics
+    - coalescence of bubble
+    - marangoni effect
+    - instability and bursting with electromagnetic fields
+
+d) applications of thin films (optional)
+    - liquid atomization (airblast atomizers)
+    - drug delivery
+    - others
+
+e) Discuss how we can change the stability characteristics
+    - more surfactant? Up to what limit?
+    - less relative velocity?
