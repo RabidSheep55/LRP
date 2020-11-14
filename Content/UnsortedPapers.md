@@ -27,10 +27,16 @@ First part of the lecture is about the bursting of soap films. Outlines Culik's 
 **The Laplace law**: Relating radius of curvature and pressure difference across a thin film. Describing the formation and collapse dynamics of anti-bubbles. *Use of a copper wire to remove the difference in potential in the bubble, causing it to be unstable.*.
 Both formation and death of these bubbles are due to fluid instabilities: birth occurs due to *Rayleigh-Plateau* instability when liquid jet occurs under the free surface, death causes difference in speed between fluid velocities inside and out and lead to *Rychtmeyer–Meshkov* instabilities.
 
+??? note "Citation"
+    Dorbolo S, Caps H, Vandewalle N. Fluid instabilities in the birth and death of antibubbles. New J Phys [Internet]. 2003 Dec 22;5:161–161. Available from: http://dx.doi.org/10.1088/1367-2630/5/1/161
+    
 
 ## Soap Films and Some Fundamentals of Thin-Liquid Films [:material-pdf-box:](https://doi.org/10.1007/BF02915337){:target="_blank"}
 
 Propose nomenclature for Monolayers and bilayers of thin films in general (both oil and water films). Early discussions about the dynamics of soap bubble bursting.
+
+??? note "Citation"
+     Mysels KJ. Soap films and some fundamentals of thin-liquid films. J Am Oil Chem Soc [Internet]. 1968 Mar;45(3):139–40. Available from: http://dx.doi.org/10.1007/BF02915337
 
 
 ## Bursting Bubble Aerosols [:material-pdf-box:](https://doi.org/10.1017/jfm.2011.418){:target="_blank"}
@@ -39,3 +45,6 @@ Behaviours of tapwater (similar to seawater) bubbles - NOT soap!!
 Main focus of the paper is to find out the quantitative aerosol produced when a water bubble bursts. "Aerosol" being the hundreds of small droplets which are produced when thin film disintegrates.
 
 (shows that effect of evaporation is negligible in lifetime and stability calculations)
+
+??? note "Citation"
+    Lhuissier H, Villermaux E. Bursting bubble aerosols. J Fluid Mech [Internet]. 2011 Nov 18;696:5–44. Available from: http://dx.doi.org/10.1017/jfm.2011.418

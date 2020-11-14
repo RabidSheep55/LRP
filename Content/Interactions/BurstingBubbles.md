@@ -34,3 +34,13 @@ Experimental methods are carried out to measure:
 
 ??? note "Citation"
     Müller F, Stannarius R. Comparison of the rupture dynamics of smectic bubbles and soap bubbles. Liquid Crystals [Internet]. 2009 Mar 18;36(2):133–45. Available from: http://dx.doi.org/10.1080/02678290802699300
+
+
+## Cracks in bursting soap films [:material-pdf-box:](https://doi.org/10.1017/jfm.2015.376){:target="_blank"}
+
+Great overview article, goes over the mechanisms of amphiphilic surfactant molecules and their behaviours and roles in surface tension. Goes on to rupture dynamics and surface rheology. Really relies on the paper by P. C. Petit, M. Le Merrer and A.-L. Biance about the study of 'rigid' soap films.
+
+Explains how P. C. Petit et. al. provide an explanation for the deviation from the Tayor-Culick rim velocity: surfactant molecules build-up along the rim, inducing gradient in surface tension with the rest of the film. This causes its cross-section to deviate to an elongated circular shape.
+
+??? note "Citation"
+    Bico J. Cracks in bursting soap films. J Fluid Mech [Internet]. 2015 Jul 30;778:1–4. Available from: http://dx.doi.org/10.1017/jfm.2015.376

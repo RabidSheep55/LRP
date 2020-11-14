@@ -22,6 +22,7 @@
 - surfactants responsible for espresso crema
 - layer structure which constitutes the thin film
 - liquid film drainage (thinning)
+- Plateau borders
 
 # Useful links
 - <http://www.imperial.ac.uk/library/subject-support/mechanical-engineering/>
