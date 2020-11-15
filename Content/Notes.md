@@ -78,3 +78,19 @@ e) Discuss how we can change the stability characteristics
 
 - more surfactant? Up to what limit?
 - less relative velocity?
+
+
+## Storytelling notes
+
+Need to go over the reason for film bursting, and causes different papers might attribute to that effect:
+
+- Very early paper in 1968 (Vrij A, Overbeek JThG.) talks about 'corrugations' on the surface, which cause spontaneous thinning at a critical wavelength due to an imbalance in surface Gibbs energy and van de Walls forces.
+- One paper mentions the introduction of instability due to ambient evaporation (when films are at critical thicknesses) (Champougny et al)
+-
+
+
+When going over bursting bubbles and their rim velocity. Go over different propositions for the deviation from the Taylor-Culick velocity (most of the time, the measured velocities are lower than those predicted by that primitive model):
+
+- Some papers point to the small fluid particles that are ejected from the rim (Müller F, Stannarius R.)
+- Some mention a build-up of surfactant particles on the travelling edge, causing it to take an elongated shape, and develop a surface tension gradient (Bico J.)
+- A lot point to the formation of an 'aureole', where away from the opening rim, folds and 'cracks' are observed (which is where some of the energy could be going).
