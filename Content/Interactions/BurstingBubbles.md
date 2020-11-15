@@ -44,3 +44,42 @@ Explains how P. C. Petit et. al. provide an explanation for the deviation from t
 
 ??? note "Citation"
     Bico J. Cracks in bursting soap films. J Fluid Mech [Internet]. 2015 Jul 30;778:1–4. Available from: http://dx.doi.org/10.1017/jfm.2015.376
+
+
+## Opening and retraction of particulate soap films [:material-pdf-box:](https://doi.org/10.1209/0295-5075/111/26001){:target="_blank"}
+
+(cited by Cracks in bursting soap films Bico, J)
+
+Study of particulate film dynamics: thin films which have solid hydrophobic particles attached at their interfaces. They place some polystyrene beads on the film in monolayer and bilayer configurations and study the opening and retraction dynamics. For bilayer, the beads only touch one of the liquid-air interfaces, whereas in the monolayer setup, they intersect both interfaces of the film.
+
+Not too sure about their result considering their bilayer experiments: it agrees with the Taylor-Culick rim velocity equation (when accounting for the inertia of the beads), which has been "disproven" time and time again (I think).
+
+??? note "Citation"
+    Timounay Y, Lorenceau E, Rouyer F. Opening and retraction of particulate soap films. EPL [Internet]. 2015 Jul 1;111(2):26001. Available from: http://dx.doi.org/10.1209/0295-5075/111/26001
+
+
+## Influence of Evaporation on Soap Film Rupture [:material-pdf-box:](http://dx.doi.org/10.1021/acs.langmuir.7b04235){:target="_blank"}
+
+Pretty good summary of the effects that lead to film thinning: Gravity and capillary drainage, marginal regeneration due to patches formed near the menisci, formation of 'black film' which, initially stable due to the "repulsion between surfactant-laden interfaces of the film", becomes unstable due to surface concentration heterogeneities causing thickness instabilities (references Lhuissier, Bursting Bubbles).
+
+Argue that evaporation, adding an external flux from film to atmosphere, could accelerate the thinning mechanisms, and even be cause/accelerate the instabilities observed: for heterogeneous interfaces, local evaporation will vary as stabilizing agents can influence those rates, causing temperature and surface concentration gradients, which would lead to further instabilities.
+
+Experimental results show that the thinning dynamics are almost not affected by evaporation. However, discover that evaporation becomes important at the 'black film' level, close to rupture. Propose that rupture occurs when mass loss due to evaporation is of the order of mass loss due to film drainage at the top of the film.
+
+??? note "Citation"
+    Champougny L, Miguet J, Henaff R, Restagno F, Boulogne F, Rio E. Influence of Evaporation on Soap Film Rupture. Langmuir [Internet]. 2018 Mar 2;34(10):3221–7. Available from: http://dx.doi.org/10.1021/acs.langmuir.7b04235
+
+
+## Rupture of Thin Liquid Films Due to Spontaneous Fluctuations in Thickness [:material-pdf-box:](http://doi.org/10.1021/ja01014a015){:target="_blank"}
+*(seems like a cornerstone paper, been cited a lot)*
+
+> black soap films — black, because interference between light reflected from the front side and that reflected from the back side leads to nearly complete extinction of the reflected light
+
+Talks about thin soap films as having rough surfaces; if the corrugations have a wavelength larger than a critical value, they will grow spontaneously and cause the film to rupture. Surface tension acts against the thickness variations, whereas "Van der Waals" forces will act to move particles from thinner areas towards thicker, accentuating thickness variations. This paper poses that if the decrease in van der Waals energy more than compensates the increase in surface Gibbs energy (the corrugated film has a larger surface area, therefore more surface energy), then the deformation would spontaneously grow and lead to either a full rupture, or stabilisation to 'black film'.
+
+*Note: This reminds me of the Rayleigh-Taylor instabilities, the growth of an instability due to a density gradient.*
+
+Need to find out how right they were... What do more recent papers say about this one??
+
+??? note "Citation"
+    Vrij A, Overbeek JThG. Rupture of thin liquid films due to spontaneous fluctuations in thickness. J Am Chem Soc [Internet]. 1968 Jun;90(12):3074–8. Available from: http://dx.doi.org/10.1021/ja01014a015

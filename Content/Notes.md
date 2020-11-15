@@ -24,6 +24,10 @@
 - liquid film drainage (thinning)
 - Plateau borders
 
+## Questions
+- A lot of older papers place a lot of importance on Van Der Waals forces, why do more recent papers not even mention them? (that's basically the opposite of diffusion right?)
+
+
 # Useful links
 - <http://www.imperial.ac.uk/library/subject-support/mechanical-engineering/>
 - <http://www.youtube.com/watch?v=Oa66AxTbjxA>
@@ -44,27 +48,33 @@ ebsco
 
 ## Storytelling
 a) General comments what is the focus of your study
-    - definition of thin film as liquid between two gases, or a gas between two liquids, or liquid between a gas and solid. Focus limited to a 3 fluids problem
-    - geometry: curved film (bubbles and anti-bubbles) or planar film
-    - liquid with multiple bubbles (foams, porous liquids)
+
+- definition of thin film as liquid between two gases, or a gas between two liquids, or liquid between a gas and solid. Focus limited to a 3 fluids problem
+- geometry: curved film (bubbles and anti-bubbles) or planar film
+- static or flowing thin films
+- liquid with multiple bubbles (foams, porous liquids)
 
 b) Describe curved films (soap bubbles) and their peculiarities
-    - role of surfactant, gravity, pressure,
-    - role of surface tension
+
+- role of surfactant, gravity, pressure,
+- role of surface tension
 
 c) Interactions with the environment -> a this film or a  bubble is in general not always stable
-    - planar thin film -> formation of ligaments or droplets depending on the relative velocity with the environment
-    - Rayleigh-Taylor and Kelvin-Helmholtz instabilities
-    - a bubble could burst and related dynamics
-    - coalescence of bubble
-    - marangoni effect
-    - instability and bursting with electromagnetic fields
+
+- planar thin film -> formation of ligaments or droplets depending on the relative velocity with the environment
+- Rayleigh-Taylor and Kelvin-Helmholtz instabilities
+- a bubble could burst and related dynamics
+- coalescence of bubble
+- marangoni effect
+- instability and bursting with electromagnetic fields
 
 d) applications of thin films (optional)
-    - liquid atomization (airblast atomizers)
-    - drug delivery
-    - others
+
+- liquid atomization (airblast atomizers)
+- drug delivery
+- others
 
 e) Discuss how we can change the stability characteristics
-    - more surfactant? Up to what limit?
-    - less relative velocity?
+
+- more surfactant? Up to what limit?
+- less relative velocity?
