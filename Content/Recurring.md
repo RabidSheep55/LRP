@@ -15,3 +15,11 @@ instability grows until crest thickness becomes too small and ligaments form
 
 ## Critical micelle concentration (CMC)
 Concentration of surfactant above which micelles will form, at which point the surfactant molecules start to aggregate and group together instead of being evenly dispersed. Before this value, the concentration of surfactant strongly affects surface tension, after it, there is little to no change. The value is dependant on temperature, pressure and presence of other surfactants and electrolytes.
+
+## Film pressure
+The difference in surface tension between clean ("bare") and surfactant containing water.
+
+## Marginal regeneration
+A thin film drainage mechanism which occurs if a film contains mobile surface elements, like surfactants for example. The usual pressure driven Poiseuille drainage rate can be increased significantly by "two dimentional convective motion along the film perimeter" *(Effect of soluble surfactant on bubble persistence and bubble-produced aerosol particles, paragraph 34)*.
+
+Lhuissier and Villermaux provided evidence of that drainage mechanism happening at the base of films forming the base of bubbles at a liquid surface.

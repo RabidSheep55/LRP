@@ -40,7 +40,7 @@ Propose nomenclature for Monolayers and bilayers of thin films in general (both 
 
 
 ## Bursting Bubble Aerosols [:material-pdf-box:](https://doi.org/10.1017/jfm.2011.418){:target="_blank"}
-*(cited by 110)*
+*(cited by 110) CHAD PAPER*
 Behaviours of tapwater (similar to seawater) bubbles, also sometime called bare films - NOT soap!!
 Main focus of the paper is to find out the quantitative aerosol produced when a water bubble bursts. "Aerosol" being the hundreds of small droplets which are produced when thin film disintegrates.
 
@@ -48,3 +48,15 @@ Main focus of the paper is to find out the quantitative aerosol produced when a 
 
 ??? note "Citation"
     Lhuissier H, Villermaux E. Bursting bubble aerosols. J Fluid Mech [Internet]. 2011 Nov 18;696:5–44. Available from: http://dx.doi.org/10.1017/jfm.2011.418
+
+
+## Stabilization of Thin Liquid Films by Repulsive van der Waals Force [:material-pdf-box:](https://doi.org/10.1016/j.cis.2014.07.010){:target="_blank"}
+
+Experimentally observe the behaviour of bubbles rising up, due to buoyancy, towards a (bare) liquid-liquid interface (non-polar oils and water). Depending on the sign of the relevant van der Waals forces, the bubble with either stop at the boundary and become stable, or break through. Add high amount of electrolyte concentration to "screen out" electrostatic interactions.
+
+Overall, found that when the film-forming phase is the nonpolar oil, stability can always be predicted from the sign on the van der Waals forces (repulsive leads to stability). Couldn't predict stability when water was used though.
+
+
+## Bursting of Bubbles at an Air-Water Interface [:material-pdf-box:](https://doi.org/10.1038/1731048a0){:target="_blank"}
+
+Very early beef between two research teams who disagree about the mechanisms which appear during a bubble's rupture event. Specifically, the size of particles that emerge: one believes that two distinct fundamental mechanisms exist, one which yields a mist of very fine particles, and one which yields a jet or column of water with relatively larger particles.

@@ -23,6 +23,8 @@
 - layer structure which constitutes the thin film
 - liquid film drainage (thinning)
 - Plateau borders
+- Aerosol production during film bursting
+- Bubble drainage (due to pressure-driven Poiseuille flow, but most importantly due to marginal regeneration)
 
 ## Questions
 - A lot of older papers place a lot of importance on Van Der Waals forces, why do more recent papers not even mention them? (that's basically the opposite of diffusion right?)
