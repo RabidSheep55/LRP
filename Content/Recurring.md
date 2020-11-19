@@ -22,4 +22,6 @@ The difference in surface tension between clean ("bare") and surfactant containi
 ## Marginal regeneration
 A thin film drainage mechanism which occurs if a film contains mobile surface elements, like surfactants for example. The usual pressure driven Poiseuille drainage rate can be increased significantly by "two dimentional convective motion along the film perimeter" *(Effect of soluble surfactant on bubble persistence and bubble-produced aerosol particles, paragraph 34)*.
 
+Soap Films: Study of Their Thinning and a Bibliography (Pergamon Press, New York, 1959), by Mysels was the seminal paper to introduce it.
+
 Lhuissier and Villermaux provided evidence of that drainage mechanism happening at the base of films forming the base of bubbles at a liquid surface.

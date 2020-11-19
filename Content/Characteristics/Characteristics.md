@@ -36,3 +36,14 @@ Bubbles bursting will generate 'film drops' (very thin mist), and the collapse o
 Their results agree with the scaling law established by Lhuissier and Villermaux, which links bubble film cap thickness over time, taking into account marginal regeneration.
 
 *Really likes to cite the Bursting bubble aerosol production paper by Lhuissier...*
+
+## Life and death of not so "bare" bubbles [:material-pdf-box:](https://doi.org/10.1039/c6sm00178e){:target="_blank"}
+
+How drainage and rupture of soap bubbles depends on surfactant concentration. Study concentrations way above CMC. Oberve hole nucleation point also depends on concentration. They believe **marginal regeneration** is the reason.
+
+Impact of bubble bursting in beverage consumption. Pretty good overview of knowledge on what marginal regeneration is, what causes it.Show that marginal regeneration occurs regardless of the surfactant concentration used.
+
+Come up with bubble **fragility**: how sensitive they are to external perturbations (like solid objects, or dust). Carry out experiment and observe that bubbles with dilute concentrations (<0.8cmc) would burst upon contact with objects. Whereas for c=cmc and above, object would penetrate without damage.
+
+??? note "Citation"
+    Champougny L, Roché M, Drenckhan W, Rio E. Life and death of not so “bare” bubbles. Soft Matter [Internet]. 2016;12(24):5276–84. Available from: http://dx.doi.org/10.1039/c6sm00178e

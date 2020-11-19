@@ -8,7 +8,7 @@ Very simple, can copy and paste the objectives decided in the first meeting (in 
 ## Introduction
 Definition of a thin film: Liquid between two gases, or a gas between two liquids (antibubbles), or liquid between a gas and a solid. Limit study to 3 fluids problem (gas-liquid-gas and liquid-gas-liquid)
 
-Define what makes a soap bubble: surfactant (brief explanation of amphiphilic properties)
+Define what makes a soap bubble: presence of surfactant (brief explanation of amphiphilic properties). This is opposed to "bare" bubbles, which will be used in this paper when studying transient effects.
 
 Explain geometries explored? curved or planar film, and multiple bubbles (foams and porous liquids)?
 
@@ -52,7 +52,7 @@ Effects which occur when the film is young, become negligible compared to the ne
 Discuss the pressure driven Poiseuille drainage rate.
 
 #### Marginal Regeneration
-Very interesting film thinning effect caused by the presence of free moving surface particles (like surfactants!).
+Very interesting film thinning effect caused by the presence of free moving surface particles (like surfactants!). When a bubble is sitting on a bulk liquid, this film draining mechanism is orders of magnitude more significant than the usual pressure-driven Poiseuille draining.
 
 #### Newton Black films
 The thinnest possible stable bubble thickness; where it is now stable because the two boundaries are so close, the surfactant molecules can interact directly.
@@ -65,14 +65,15 @@ What causes the bubble to become unstable and rupture?
 
 Discuss the different methods used to purposefully rupture a bubble, (spark, needle, EM field, ultrasound ...)
 
-### Rim velocity
+### Hole Development
+#### Rim Velocity
 Velocity of the initially circular opening hole. Primitively modelled by the Taylor-Culick velocity, but widely accepted to be an overestimation. Go over different propositions for this deviation:
 
 - Some papers point to the small fluid particles that are ejected from the rim (Müller F, Stannarius R.)
 - Some mention a build-up of surfactant particles on the travelling edge, causing it to take an elongated shape, and develop a surface tension gradient (Bico J.)
 - A lot point to the formation of an 'aureole', where away from the opening rim, folds and 'cracks' are observed (which is where some of the energy could be going).
 
-### Appearance of instabilities
+#### Appearance of instabilities
 The bubble's hole doesn't stay circular the whole time, instabilities arrise which cause certain structures to be observed:
 
 - Formation of ligaments

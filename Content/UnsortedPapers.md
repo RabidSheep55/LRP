@@ -40,7 +40,7 @@ Propose nomenclature for Monolayers and bilayers of thin films in general (both 
 
 
 ## Bursting Bubble Aerosols [:material-pdf-box:](https://doi.org/10.1017/jfm.2011.418){:target="_blank"}
-*(cited by 110) CHAD PAPER*
+*ITS ACTUALLY CITED BY ALSMOST EVERYONE*
 **NEED TO READ THIS PROPERLY**
 Behaviours of tapwater (similar to seawater) bubbles, also sometime called bare films - NOT soap!!
 Main focus of the paper is to find out the quantitative aerosol produced when a water bubble bursts. "Aerosol" being the hundreds of small droplets which are produced when thin film disintegrates.

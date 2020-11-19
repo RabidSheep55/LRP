@@ -80,6 +80,8 @@ Talks about thin soap films as having rough surfaces; if the corrugations have a
 
 *Note: This reminds me of the Rayleigh-Taylor instabilities, the growth of an instability due to a density gradient.*
 
+**Showed typical time required for a van der Waals driven thickness instability to grow is proportional to the film thickness to the power of 5**
+
 Need to find out how right they were... What do more recent papers say about this one??
 
 ??? note "Citation"
