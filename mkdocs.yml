@@ -26,6 +26,8 @@ nav:
           - Stable Bubbles: Interactions/StableBubbles.md
           - Bursting Bubbles: Interactions/BurstingBubbles.md
       - Unsorted: UnsortedPapers.md
+    - Report:
+      - Structure.md
 
 
 

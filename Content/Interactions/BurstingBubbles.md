@@ -1,3 +1,4 @@
+
 # Interactions with external Environments - Bursting Bubbles
 ## Comments on a Ruptured Soap Film [:material-pdf-box:](https://doi.org/10.1063/1.1735765){:target="_blank"}
 Discrepancy between calculated and measured values, seems to be caused by neglecting the inelastic acceleration of the fluid
