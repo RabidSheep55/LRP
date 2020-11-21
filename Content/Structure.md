@@ -19,6 +19,8 @@ Outline areas that will be explored
 
 
 ## Stable curved films
+*This section seems kind of weak and disjointed compared to the bubble death one. Might need to find a better structure*
+
 ### Role of surfactant
 Detailed explanation of underlying physics behind the surface tension reducing capabilities of surfactants. Outline the different types of surfactants and how surfactant concentration affects bubble stability.
 
@@ -27,6 +29,7 @@ Organisation into two surfactant monolayers which stabilise the film.
 (Manev E, Scheludko A, Exerowa D 1974)
 (Sane A, Mandre S, Kim I. 2018)
 (Modini RL et al 2013)
+(Champougny L et al 2016)
 
 ### The Marangoni Effect
 Very prevalent effect, which is the driving mechanism behind the transient structures observed on bubble surface (different thicknesses lead to different light interference resulting in colours).
@@ -42,9 +45,11 @@ The effects behind the merging of bubbles
 NEED TO GATHER SOURCES FOR THIS PART
 (look into the levitation of bubbles using this effect)
 
+*Moses Effect*: Deformation of a surface due by a magnetic field
+
 When created, a bubble often has a charge, and that can mess with experiments. Emphasise importance of mitigating or keeping that in consideration. (some experiments do it well, others don't)
 
-### Possible other sections
+### (Possible other sections)
 - Bubble size
 
 ### Applications
@@ -119,6 +124,8 @@ Discuss the unstable effects - personal opinion, what people did well etc
 Looking back at all the effects described above, recap about how we could improve the stability of a bubble:
 
 - Bubble make up
+    - Surfactant concentration
+    - Viscosity (more viscous live longer it seems, but don't form bubbles)
 - Environment (low-high humidity, velocities, EM field)
 
 Develop a few statements over 2-3 important points for each section
