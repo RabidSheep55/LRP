@@ -21,11 +21,9 @@ nav:
     - Terms:
       - Recurring.md
     - Papers:
-      - Characteristics and Fundamental Interactions: Characteristics/Characteristics.md
-      - Interactions with external Environments:
-          - Stable Bubbles: Interactions/StableBubbles.md
-          - Bursting Bubbles: Interactions/BurstingBubbles.md
-      - Unsorted: UnsortedPapers.md
+      - Stable curved films: PaperData/Stable.md
+      - Bubble Death: PaperData/Dying.md
+      - Unsorted: PaperData/Unsorted.md
     - Report:
       - Structure.md
 

@@ -12,6 +12,9 @@ Define what makes a soap bubble: presence of surfactant (brief explanation of am
 
 Explain geometries explored? curved or planar film, and multiple bubbles (foams and porous liquids)?
 
+*What make bubble unique, what makes relevant, guide the reader to relevance, set the scene*
+*Reference a lot of papers in the introductions*
+
 Outline areas that will be explored
 
 
@@ -19,8 +22,18 @@ Outline areas that will be explored
 ### Role of surfactant
 Detailed explanation of underlying physics behind the surface tension reducing capabilities of surfactants. Outline the different types of surfactants and how surfactant concentration affects bubble stability.
 
+Organisation into two surfactant monolayers which stabilise the film.
+
+(Manev E, Scheludko A, Exerowa D 1974)
+(Sane A, Mandre S, Kim I. 2018)
+(Modini RL et al 2013)
+
 ### The Marangoni Effect
 Very prevalent effect, which is the driving mechanism behind the transient structures observed on bubble surface (different thicknesses lead to different light interference resulting in colours).
+
+Is what gives a certain elasticity to the film. Marangoni effect will carry surfactnat molecules from zones of high concentration to low concentration. So like if we stretch the film, surfactant concentration decreases in certain areas, increasing surface tension, and driving more low-surface tension zones towards it.
+
+Mention that this mechanism also plays a role in film thinning and drainage.
 
 ### Bubble Coalescence
 The effects behind the merging of bubbles
@@ -31,15 +44,21 @@ NEED TO GATHER SOURCES FOR THIS PART
 
 When created, a bubble often has a charge, and that can mess with experiments. Emphasise importance of mitigating or keeping that in consideration. (some experiments do it well, others don't)
 
+### Possible other sections
+- Bubble size
 
 ### Applications
 Applications of these stable films:
 
-- 2D flow approximation
+- 2D flow approximation (Kellay H. 2017)
 - Study vortices
 - Test models for friction (with the flowing 2D film case)
 - (thin film interference, not really an application though...)
 
+### Discussion
+What the EffectsWe ahve seeen so far that when a curved is stable, there are several physicl phenoment at play
+Elaboration *CRITICAL VIEW*
+2 Paragraphs even
 
 ## Bubble Death (Interactions with the environment)
 ### Film thinning mechanisms and rupture initialisation
@@ -54,7 +73,7 @@ Discuss the pressure driven Poiseuille drainage rate.
 #### Marginal Regeneration
 Very interesting film thinning effect caused by the presence of free moving surface particles (like surfactants!). When a bubble is sitting on a bulk liquid, this film draining mechanism is orders of magnitude more significant than the usual pressure-driven Poiseuille draining.
 
-#### Newton Black films
+#### Common and Newton Black films
 The thinnest possible stable bubble thickness; where it is now stable because the two boundaries are so close, the surfactant molecules can interact directly.
 
 #### Rupture initialisation
@@ -93,7 +112,8 @@ Mention the significant role bursting (unstable) bubbles have in:
 - Liquid atomization
 - Drug delivery
 
-
+### Discussion
+Discuss the unstable effects - personal opinion, what people did well etc
 
 ## Improving stability
 Looking back at all the effects described above, recap about how we could improve the stability of a bubble:
@@ -101,8 +121,15 @@ Looking back at all the effects described above, recap about how we could improv
 - Bubble make up
 - Environment (low-high humidity, velocities, EM field)
 
+Develop a few statements over 2-3 important points for each section
+
 ## Conclusions
 Not sure we need this part (the "Improving stability" section is already kind of a summary)
+Extract key points from above
+Dry statement - recap
+In this LRP we have been addressing thin films - bubbles or curved films
+several stable effects and then Bursting, we touched on.... Saw to control stability its important to do.......
+Gaps in the literature? rich in where?
 
 ## References
 (probably use BibTex to do this)

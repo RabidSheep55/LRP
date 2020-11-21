@@ -46,3 +46,8 @@ scorpus
 pubmed
 ieee explore
 ebsco
+
+
+## Figures and Equations
+Put reference in the caption
+Limit equations as much as Possible. Give 3-4 line description of equations that are mentions

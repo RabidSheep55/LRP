@@ -11,8 +11,6 @@ leaning to formation of waves and crests, common in thin films over a surface
 differences in density will cause waves to appear, thickness variations appear on the surface
 instability grows until crest thickness becomes too small and ligaments form
 
-## Rheology
-
 ## Critical micelle concentration (CMC)
 Concentration of surfactant above which micelles will form, at which point the surfactant molecules start to aggregate and group together instead of being evenly dispersed. Before this value, the concentration of surfactant strongly affects surface tension, after it, there is little to no change. The value is dependant on temperature, pressure and presence of other surfactants and electrolytes.
 
@@ -25,3 +23,6 @@ A thin film drainage mechanism which occurs if a film contains mobile surface el
 Soap Films: Study of Their Thinning and a Bibliography (Pergamon Press, New York, 1959), by Mysels was the seminal paper to introduce it.
 
 Lhuissier and Villermaux provided evidence of that drainage mechanism happening at the base of films forming the base of bubbles at a liquid surface.
+
+## Marangoni Effect
+Mass transfer on a liquid boundary due to surface tension gradients. First described in 1860s by Carlo Giuseppe Matteo Marangoni, who was analysing the spreading of oil drops on a water surface. 
