@@ -14,7 +14,7 @@ instability grows until crest thickness becomes too small and ligaments form
 ## Critical micelle concentration (CMC)
 Concentration of surfactant above which micelles will form, at which point the surfactant molecules start to aggregate and group together instead of being evenly dispersed. Before this value, the concentration of surfactant strongly affects surface tension, after it, there is little to no change. The value is dependant on temperature, pressure and presence of other surfactants and electrolytes.
 
-## Film pressure
+## Film or surface pressure
 The difference in surface tension between clean ("bare") and surfactant containing water.
 
 ## Marginal regeneration
@@ -24,5 +24,7 @@ Soap Films: Study of Their Thinning and a Bibliography (Pergamon Press, New York
 
 Lhuissier and Villermaux provided evidence of that drainage mechanism happening at the base of films forming the base of bubbles at a liquid surface.
 
+Initially studied in vertical thin films, also seen in bubbles too.
+
 ## Marangoni Effect
-Mass transfer on a liquid boundary due to surface tension gradients. First described in 1860s by Carlo Giuseppe Matteo Marangoni, who was analysing the spreading of oil drops on a water surface. 
+Mass transfer on a liquid boundary due to surface tension gradients. First described in 1860s by Carlo Giuseppe Matteo Marangoni, who was analysing the spreading of oil drops on a water surface.

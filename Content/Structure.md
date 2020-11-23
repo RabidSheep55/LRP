@@ -30,6 +30,7 @@ Organisation into two surfactant monolayers which stabilise the film.
 (Sane A, Mandre S, Kim I. 2018)
 (Modini RL et al 2013)
 (Champougny L et al 2016)
+(Bhamla MS et al 2017): stability ++ with surfactant
 
 ### The Marangoni Effect
 Very prevalent effect, which is the driving mechanism behind the transient structures observed on bubble surface (different thicknesses lead to different light interference resulting in colours).
@@ -37,6 +38,8 @@ Very prevalent effect, which is the driving mechanism behind the transient struc
 Is what gives a certain elasticity to the film. Marangoni effect will carry surfactnat molecules from zones of high concentration to low concentration. So like if we stretch the film, surfactant concentration decreases in certain areas, increasing surface tension, and driving more low-surface tension zones towards it.
 
 Mention that this mechanism also plays a role in film thinning and drainage.
+
+(Bhamla MS et al 2017)
 
 ### Bubble Coalescence
 The effects behind the merging of bubbles
@@ -75,8 +78,14 @@ Effects which occur when the film is young, become negligible compared to the ne
 
 Discuss the pressure driven Poiseuille drainage rate.
 
+(Mysels, Karol Joseph (1959). Soap films : studies of their thinning. Pergamon Press, London) <- FIRST PAPER
+
 #### Marginal Regeneration
 Very interesting film thinning effect caused by the presence of free moving surface particles (like surfactants!). When a bubble is sitting on a bulk liquid, this film draining mechanism is orders of magnitude more significant than the usual pressure-driven Poiseuille draining.
+
+(Bhamla MS et al 2017)
+
+**MAKE A TABLE WITH DRAINAGE MECHANISMS FOR SOLUBLE AND INSOLUBLE SURFACTANTS AT BELOW AND ABOVE CMC**
 
 #### Common and Newton Black films
 The thinnest possible stable bubble thickness; where it is now stable because the two boundaries are so close, the surfactant molecules can interact directly.

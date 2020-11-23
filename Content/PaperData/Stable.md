@@ -74,3 +74,37 @@ Looking at similarities between fluid structures observed in thin film interfere
 
 ??? note "Citation"
     Seychelles F, Amarouchene Y, Bessafi M, Kellay H. Thermal convection and emergence of isolated vortices in soap bubbles. Phys Rev Lett. 2008;100(14). Available from: http://dx.doi.org/10.1103/PhysRevLett.100.144501
+
+
+## Interfacial mechanisms for stability of surfactant-laden films [:material-pdf-box:](https://doi.org/10.1371/journal.pone.0175753){:target="_blank"}
+*Has really cool images and figures, could use!*
+
+Carry out thinning experiments to quantify the slowing effect of surfactants on gravity-driven drainage. Looking at the difference between soluble and insoluble surfactants.
+
+**Explain marginal regeneration** by saying that surface-tension gradient driven plumes have an increased surface area near the top, meaning surfactant concentration is locally decreased, and surface tension therefore is increased. This area of high surface tension will cause liquid to be pulled up from the bulk liquid at the bubble's. That liquid has a lower surfactant concentration (as surfactant molecules **adsorb??** at the surface), this reduces surfactant conc of bubble which destabilises and leads to bursting.
+
+Find that for both soluble and insoluble surfactant, adding it does increase the stability of the thin film.
+
+Find that Marangoni flows act to stabilise the film significantly, above and below the CMC for soluble surfactant laden films.
+
+For the insoluble surfactant laden films, see that at low surface pressure, "marginal regeneration" is observed: Initially the bubble has circular fringe patterns, exemplifying a symmetric thickness profile for the bubble. However after t < 2, plumes of surfactant are seen rising from the base of the bubble, these are driven by surface-tension gradients (Marangoni). After CMC, this doesn't happen tho and the film.
+
+At high surface pressure with insoluble, stability is achieved through "interfacial rheology", resulting in immobile surfaces.
+
+> It is worth noting that for the solutions above the cmc, we also observe formation of black films before rupture (soluble surfactant)
+
+??? note "Citation"
+    Bhamla MS, Chai C, Àlvarez-Valenzuela MA, Tajuelo J, Fuller GG (2017) Interfacial mechanisms for stability of surfactant-laden films. PLOS ONE 12(5): e0175753. https://doi.org/10.1371/journal.pone.0175753
+
+
+## Marginal Regeneration and the Marangoni Effect [:material-pdf-box:](https://doi.org/10.1006/jcis.1999.6226){:target="_blank"}
+Looking at vertical thin films. *FIG 1 would be pretty good to show marginal regeneration*.
+
+A localized zone of high surface tension, will contract and reduce its surface area, lowering its surface tension until it reaches a mechanical equilibrium with its surroundings. "This effect is responsible for the characteristic rapid, swirling motions that are often seen in thin films"
+
+If only a small surface tension gradient appears, or the relaxation to the equilibrium is too fast (diffusion coefficient), then marginal regeneration will not happen, and the only film thinning mechanisms which remains is the slow Poiseuille flow between the immobilized film surfaces.
+
+Essentially finds the same results as Bhamla MS et al 2017
+
+??? note "Citation"
+    Vincent Adriaan Nierstrasz, Gert Frens, Marginal Regeneration and the Marangoni Effect, Journal of Colloid and Interface Science, Volume 215, Issue 1,1999, Pages 28-35, ISSN 0021-9797, https://doi.org/10.1006/jcis.1999.6226.
