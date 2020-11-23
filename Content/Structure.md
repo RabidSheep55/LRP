@@ -68,6 +68,9 @@ What the EffectsWe ahve seeen so far that when a curved is stable, there are sev
 Elaboration *CRITICAL VIEW*
 2 Paragraphs even
 
+- Surfactant concentration and surface tension
+- Surfactant type? Soluble and insoluble... see in film drainage mechanisms tho
+
 ## Bubble Death (Interactions with the environment)
 ### Film thinning mechanisms and rupture initialisation
 Film undergo thinning mechanisms which reduce its thickness either down to the thinnest possible value (black films), or directly to rupture. Location point of rupture is different between a bubble sitting on bulk liquid, or held at a small point.
