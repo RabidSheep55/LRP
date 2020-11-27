@@ -96,5 +96,7 @@ Other than van der Waals effects, Surface tension is the main effect in their mo
 ## The Life and Death of “Bare” Viscous Bubbles [:material-pdf-box:](https://doi.org/10.1126/science.279.5357.1704){:target="_blank"}
 Looking into the dynamics of very viscous polymer melt air bubbles (a million times more viscous that water). Bubbles stable for several minutes. Observe and model the thickness variation over time due to film drainage. The fact that viscosity is so much higher means they can more easily study the ageing of the films. Simply state that when the film is thin enough, van der Waals interactions accelerate the thinning to bursting.
 
+Curiously, they state that the hole radius grows a constant Taylor-Culick velocity, which is incorrect.
+
 ??? note "Citation"
     Debregeas G. The Life and Death of “Bare” Viscous Bubbles. Science [Internet]. 1998 Mar 13;279(5357):1704–7. Available from: http://dx.doi.org/10.1126/science.279.5357.1704

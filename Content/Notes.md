@@ -29,6 +29,7 @@
 
 ## Questions
 - A lot of older papers place a lot of importance on Van Der Waals forces, why do more recent papers not even mention them? (that's basically the opposite of diffusion right?)
+- The difference between plug flow and Poiseuille flow, is it that plug flow is just considering the average velocity of a Poiseuille flow?
 
 
 # Useful links

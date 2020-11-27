@@ -34,8 +34,13 @@ Two types of surfactant - soluble and insoluble, how that leads to different eff
 (Manev E, Scheludko A, Exerowa D 1974)
 (Sane A, Mandre S, Kim I. 2018)
 (Modini RL et al 2013)
-(Champougny L et al 2016)
+(ChampougnyNotBare2016)
 (Bhamla MS et al 2017): stability ++ with surfactant
+
+#### "Rigid" and "Mobile" film surfaces
+Based on surfactant solubility and viscosity (Bruinsma1995)
+Drainage mechansisms are studied in detail (Bhamla2017)
+
 
 ### The Marangoni Effect
 Very prevalent effect, which is the driving mechanism behind the transient structures observed on bubble surface (different thicknesses lead to different light interference resulting in colours).
@@ -73,6 +78,8 @@ What the EffectsWe ahve seeen so far that when a curved is stable, there are sev
 Elaboration *CRITICAL VIEW*
 2 Paragraphs even
 
+Talk about the thickness models -> Lhuissier2011's one was backed up by Modini2013.
+
 - Surfactant concentration and surface tension
 - Surfactant type? Soluble and insoluble... see in film drainage mechanisms tho
 
@@ -80,21 +87,40 @@ Elaboration *CRITICAL VIEW*
 ### Film thinning mechanisms and rupture initialisation
 Film undergo thinning mechanisms which reduce its thickness either down to the thinnest possible value (black films), or directly to rupture. Location point of rupture is different between a bubble sitting on bulk liquid, or held at a small point.
 
-Go through the main mechanisms that lead to film thickness reductions:
+*Maybe talk about how Lhuissier has an amazing paper that goes through every step that leads to rupture...*
+
 #### Gravity and capillary drainage
-Effects which occur when the film is young, become negligible compared to the next mechanisms at thin values (I think, NEED SOURCES).
+Effects which occur when the film is young (still relatively thick), and occur regardless of the presence of surfactants.
 
-Discuss the pressure driven Poiseuille drainage rate.
+What is gravity driven draining?
+What is capillary draiange?
 
-Show the Lhuissier Figure 8, where drainage occurs more rapidly than the expected Poiseuille flow. (Lhuissier2011)
+As pointed out by Lhuissier2011, depends on bubble size. (smaller bubbles will be more spherical and under the surface, while bigger are less, and more above.) Notes that for bubbles R<5a, the capillary pressure is dominant or matches the hydrostatic pressure (due to gravity), and intuitively that makes sense.
 
+For bubbles with R<5a (Lhuissier2011), main effect is capillary pressure:  Same mechanism occurs in foams, where liquid drains into the Plateau borders instead of a bulk liquid (Breward2002). Plateau borders are ???.
+
+Regardless of whether hydrostatic or capillary are the driving mechanisms, flow is really easy to compute, as they are simple pressure driven flows. A pressure gradient will drive liquid out of the cap, through the meniscus and into the bulk liquid (or directly into a Plateau border in the case of foams). Hagen-Poiseuille or very simple plug flow equations are used to determine the flowrate out of the cap. (Nierstrasz1999 and Bruinsma1995 calls it Poiseuille flow when monolayers are static/rigid), (Debregeas1998, Lhuissier2011, Breward2002 call it plug flow, when there are no surfactants involved).
+
+(short bit on what is Plug flow, and maybe the different equations that Lhuissier2011, Debregeas1998 and Breward2002 used) -> ChampougnyNotBare2016 "the flow profile is increasingly plug-like as the
+surfactant concentration is decreased from several times the critical micellar concentration (cmc) to just
+below the cmc".
+
+Leads to extremely rapid drainage for water, when no surfactants are present (Breward2002, Debregeas1998, Lhuissier2011). Lhuissier2011 points out that the only effect that could slow down the drainage would be viscous stretching (viscous forces would oppose the stretching), but that has a characteristic time of 10e-4 s. Repeat the role of surfactant mentionned in section XXX, and how it makes sense now.
+
+Since viscosity is a factor in eqs, studied very viscous, to increase lifetime:
+Is the sole drainage mechanism in bare bubbles - Plug Flow (Debregeas1998) Experiments show a simple exponential thinning of the film, proportional to cap radius. Explain by getting the plug flow velocity field, and doing conservation equation. In their case, gravity was the driving force.
+
+Show the Lhuissier Figure 8, where drainage occurs more rapidly than the expected Poiseuille flow. (Lhuissier2011). Why? MARGINAL REGENERATION
 
 #### Marginal Regeneration
 Very interesting film thinning effect caused by the presence of free moving surface particles (like surfactants!). When a bubble is sitting on a bulk liquid, this film draining mechanism is orders of magnitude more significant than the usual pressure-driven Poiseuille draining.
 
+*Easier to observe on flat films due to light, but also seen in bubbles*
+
 (Bhamla2017)
 (Mysels, Karol Joseph (1959). Soap films : studies of their thinning. Pergamon Press, London) <- FIRST PAPER
 (Lhuissier2011)
+(Breward2002) Also occurs in foams (bubbles connected to each other), with fluxes existing in the Plateau borders (the thicker parts where fluid accumulates in the boundaries)
 
 **MAKE A TABLE WITH DRAINAGE MECHANISMS FOR SOLUBLE AND INSOLUBLE SURFACTANTS AT BELOW AND ABOVE CMC**
 
@@ -103,19 +129,25 @@ The thinnest possible stable bubble thickness; where it is now stable because th
 
 Exist two possible types - Common and Newton black films.
 
-Evaporation is apparently significant at this thickness (Champougny2016)
+Evaporation is apparently significant at this thickness (ChampougnyEvap2018)
 Old paper talks the stabilisation to a black film (looking at corrugations) (Vrij1968)
 Model for bubble thinning, and patterns exhibited by those spots (Shen2020)
 Notice for detergent type surfactants at a threshold concentration will allow formation (Manev1974)
 For solutions above CMC, observe formation before rupture (Bhamla2017)
 
 #### Rupture initialisation
-What causes the bubble to become unstable and rupture?
-
-- Very early paper in 1968 (Vrij A, Overbeek JThG.) talks about 'corrugations' on the surface, which cause spontaneous thinning at a critical wavelength due to an imbalance in surface Gibbs energy and van de Walls forces.
-- One paper mentions the introduction of instability due to ambient evaporation (when films are at critical thicknesses) (Champougny et al)
-
 Discuss the different methods used to purposefully rupture a bubble, (spark, needle, EM field, ultrasound ...)
+
+#### Why?
+What causes the bubble to become unstable and rupture?
+- (Vrij1968) Very early paper in 1968 talks about 'corrugations' on the surface, which cause spontaneous thinning at a critical wavelength due to an imbalance in surface Gibbs energy and van de Walls forces.
+- (ChampougnyEvap2018) mentions the introduction of instability due to ambient evaporation (when films are at critical thicknesses)
+- (Debregeas1998) High viscosity "bare" bubbles, said to burst when (at h ~ 70nm) "long-range Van der Waals interactions enhance film thinning"
+
+#### Where?
+When the main drainage mechanism is not Marginal regeneration (either capillary or hydrostatic), there is radial symmetry, and hole nucleates at top of bubble (Debregeas1998, ChampougnyNotBare2016).
+
+And how the position of the hole depends on surfactant concentration (ChampougnyNotBare2016).
 
 ### Hole Development
 #### Rim Velocity
@@ -154,6 +186,7 @@ Looking back at all the effects described above, recap about how we could improv
 - Bubble make up
     - Surfactant concentration
     - Viscosity (more viscous live longer it seems, but don't form bubbles)
+    - Larger bubbles drain slower (Debregeas1998)
 - Environment (low-high humidity, velocities, EM field)
 
 Develop a few statements over 2-3 important points for each section

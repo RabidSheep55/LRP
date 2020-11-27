@@ -86,3 +86,9 @@ Need to find out how right they were... What do more recent papers say about thi
 
 ??? note "Citation"
     Vrij A, Overbeek JThG. Rupture of thin liquid films due to spontaneous fluctuations in thickness. J Am Chem Soc [Internet]. 1968 Jun;90(12):3074–8. Available from: http://dx.doi.org/10.1021/ja01014a015
+
+
+## Theory of hydrodynamic convection in soap films [:material-pdf-box:](https://doi.org/10.1016/0378-4371(95)00023-Z){:target="_blank"}
+> Films which show no convection patterns are called "rigid" and drain in hours
+
+Soluble surfactants that have a low viscosity, will lead to their amphiphiles being able to move freely and relatively quickly along the fluid boundaries. Whereas insoluble (molecules still in the solid phase), or high viscosity surfactants, will not, and form what is called a "rigid" surface.

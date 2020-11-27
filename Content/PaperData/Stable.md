@@ -135,3 +135,12 @@ Statistically analyse the bubble lifetimes based on size. Find that:
 
 ??? note "Citation"
      Zheng QA, Klemas V, Hsu Y-HL. Laboratory measurement of water surface bubble life time. J Geophys Res [Internet]. 1983;88(C1):701. Available from: http://dx.doi.org/10.1029/JC088iC01p00701
+
+
+## The drainage of a foam lamella [:material-pdf-box:](https://doi.org/10.1017/S0022112002007930){:target="_blank"}
+Develop mathematical model for describing the drainage mechanisms for soap films, including capillary, Marangoni and viscous effects, and considering all movement of surfactant molecules (diffusion, advection and adsorption). Start first with looking at "bare" film. Call pinching a "dimple" near the Plateau border. Find an increase in flux from film down to Plateau when film becomes thinner.
+
+Breaks down the drainage in three sections: Away from the border, a flat film which follow viscous drainage, a "capillary-static" (flow is slow enough that curvature can be assumed constant) drainage flow at the Plateau border, and an intermediary transition region between both. Assume that the film has a material property hrup (rupture).
+
+??? note "Citation"
+    BREWARD CJW, HOWELL PD. The drainage of a foam lamella. J Fluid Mech [Internet]. 2002 May 10;458:379–406. Available from: http://dx.doi.org/10.1017/S0022112002007930
