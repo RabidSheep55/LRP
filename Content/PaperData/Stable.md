@@ -108,3 +108,30 @@ Essentially finds the same results as Bhamla MS et al 2017
 
 ??? note "Citation"
     Vincent Adriaan Nierstrasz, Gert Frens, Marginal Regeneration and the Marangoni Effect, Journal of Colloid and Interface Science, Volume 215, Issue 1,1999, Pages 28-35, ISSN 0021-9797, https://doi.org/10.1006/jcis.1999.6226.
+
+
+## "Young" Soap Films [:material-pdf-box:](https://doi.org/10.1021/la001538l){:target="_blank"}
+Looking at Flat films made by rapidly pulling a rectangular metallic frame out of a surfactant containing solution. Setting up equations regarding solution concentration and surface concentration of surfactant.
+
+Mentions `Langmuir Pressure`, which is also called surface or film pressure by others.
+
+Weight of film must be balanced by Marangoni forces. Assumes a fast equilibration between solution and surface (monolayer) surfactant concentration. **Adsorption of surfactant molecules happen very quickly at very low c << c\***. Looking at the thickness distribution from base to height (assuming 2D).
+
+At CMC, most of the surfactant molecules have aggregated into micelles, and only a few remain as "monomers", alone on the surface. Goes into detail about the breakup of these micelles, when the free surface lacks surfactant molecules, and their associated characteristic times.
+
+Gives what surfactant properties are best to provide the most stable film.
+
+- Need high surface pressures -> the surfactant must have an aliphatic tail that isn't too short.
+- Need fast movement of surfactant molecules to the boundary (diffusion time) -> need the CMC to be relatively small, and surfactant tails not too long (corresponds to an HLB number from 7-9)
+
+??? note "Citation"
+    de Gennes PG. “Young” Soap Films. Langmuir [Internet]. 2001 Apr;17(8):2416–9. Available from: http://dx.doi.org/10.1021/la001538l
+
+
+## Laboratory Measurement of Water Surface Bubble Life Time [:material-pdf-box:](https://doi.org/10.1029/JC088iC01p00701){:target="_blank"}
+Statistically analyse the bubble lifetimes based on size. Find that:
+
+> the total average of life times of various sizes for tap water is 2. 24 s, it is 2. 98 s for Delaware Bay water, and 3. 89 s for Atlantic Ocean water, respectively
+
+??? note "Citation"
+     Zheng QA, Klemas V, Hsu Y-HL. Laboratory measurement of water surface bubble life time. J Geophys Res [Internet]. 1983;88(C1):701. Available from: http://dx.doi.org/10.1029/JC088iC01p00701

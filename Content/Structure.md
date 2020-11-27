@@ -11,11 +11,12 @@ Definition of a thin film: Liquid between two gases, or a gas between two liquid
 Define what makes a soap bubble: presence of surfactant (brief explanation of amphiphilic properties). This is opposed to "bare" bubbles, which will be used in this paper when studying transient effects.
 
 Explain geometries explored? curved or planar film, and multiple bubbles (foams and porous liquids)?
+Going to look at both surface bubbles and "free?" bubbles. Surface bubbles can be just considered as a curved film (the bubble) cap, connected to its bulk liquid via a meniscus (the bubble periphery, known as a Plateau border)
 
 *What make bubble unique, what makes relevant, guide the reader to relevance, set the scene*
 *Reference a lot of papers in the introductions*
 
-Outline areas that will be explored
+Outline areas that will be explored - we won't be looking at the creation of the bubble, as that doesn't really affect its lifetime as said in Lhuissier.
 
 
 ## Stable curved films
@@ -25,6 +26,10 @@ Outline areas that will be explored
 Detailed explanation of underlying physics behind the surface tension reducing capabilities of surfactants. Outline the different types of surfactants and how surfactant concentration affects bubble stability.
 
 Organisation into two surfactant monolayers which stabilise the film.
+
+Concept of surface or film pressure
+
+Two types of surfactant - soluble and insoluble, how that leads to different effects?? -> "Mobile" and "Static" monolayers
 
 (Manev E, Scheludko A, Exerowa D 1974)
 (Sane A, Mandre S, Kim I. 2018)
@@ -53,7 +58,7 @@ NEED TO GATHER SOURCES FOR THIS PART
 When created, a bubble often has a charge, and that can mess with experiments. Emphasise importance of mitigating or keeping that in consideration. (some experiments do it well, others don't)
 
 ### (Possible other sections)
-- Bubble size
+- Bubble size and shape, the *Young-Laplace Equation*, and link with contained volume pressure. (Lhuissier2011 has a pretty good description)
 
 ### Applications
 Applications of these stable films:
@@ -81,17 +86,28 @@ Effects which occur when the film is young, become negligible compared to the ne
 
 Discuss the pressure driven Poiseuille drainage rate.
 
-(Mysels, Karol Joseph (1959). Soap films : studies of their thinning. Pergamon Press, London) <- FIRST PAPER
+Show the Lhuissier Figure 8, where drainage occurs more rapidly than the expected Poiseuille flow. (Lhuissier2011)
+
 
 #### Marginal Regeneration
 Very interesting film thinning effect caused by the presence of free moving surface particles (like surfactants!). When a bubble is sitting on a bulk liquid, this film draining mechanism is orders of magnitude more significant than the usual pressure-driven Poiseuille draining.
 
-(Bhamla MS et al 2017)
+(Bhamla2017)
+(Mysels, Karol Joseph (1959). Soap films : studies of their thinning. Pergamon Press, London) <- FIRST PAPER
+(Lhuissier2011)
 
 **MAKE A TABLE WITH DRAINAGE MECHANISMS FOR SOLUBLE AND INSOLUBLE SURFACTANTS AT BELOW AND ABOVE CMC**
 
 #### Common and Newton Black films
 The thinnest possible stable bubble thickness; where it is now stable because the two boundaries are so close, the surfactant molecules can interact directly.
+
+Exist two possible types - Common and Newton black films.
+
+Evaporation is apparently significant at this thickness (Champougny2016)
+Old paper talks the stabilisation to a black film (looking at corrugations) (Vrij1968)
+Model for bubble thinning, and patterns exhibited by those spots (Shen2020)
+Notice for detergent type surfactants at a threshold concentration will allow formation (Manev1974)
+For solutions above CMC, observe formation before rupture (Bhamla2017)
 
 #### Rupture initialisation
 What causes the bubble to become unstable and rupture?

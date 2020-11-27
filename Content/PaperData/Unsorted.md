@@ -47,6 +47,20 @@ Main focus of the paper is to find out the quantitative aerosol produced when a 
 
 (shows that effect of evaporation is negligible in lifetime and stability calculations)
 
+Flat films are useful to be studied in 2D when surface viscosity (driven by high surfactant conc.) is large enough to dissipate all motion in the plane. But can't be used in bubbles, where convective motions are integral to describing the drainage.
+
+Describes the hole nucleation event through the bubble cap as stochastic. With activation energy of `sigma*h^2` (sigma is surface tension, h is surface tension).
+
+Say that the formation of ligaments result from the inertial destabilization of the rim. Were Rayleigh-Taylor destabilization is the selection mechanism. This paper disproves Spiel's findings (Spiel1998, "On the births of film  drops from bubbles bursting on seawater surfaces", talks about "beads" forming along the surface, at which surface tension can't maintain centripetal accelerations and get ejected always at the same angle (31deg) independent of bubble size and surface tension).
+
+Describes the bubble shape as a function of capillary length (a = sqrt(omega/rho g)). Neglects the weight of the cap (as thickness h is very small), and considers surface tension constant along the cap. Shape depends on the contained volume and conditions at the base (meniscus). Small bubbles will tend to be spherical and stay mostly under the surface, with a small cap angle, whereas bigger bubbles will tend to be more half-spherical and stick out.
+
+Drainage of the cap is driven by capillary pressure inside the cap (2sigma/R) or hydrostatic pressure (rho g R) depending on the ratio R/a (when <=5, calpillary draiange dominates).
+
+References the Debregeas drainage time for 'bare' molten glass bubbles, to show that pure water bubbles would drain almost immediately, as the only force that might slow down drainage is only viscosity. However show that for non-distilled water, the bubbles can exist for longer than 1s (**Significance of water purity; a very small amount of surfactant is required to improve lifetime significantly.**).
+
+Looking at low surfactant concentration tap water bubbles with "mobile" monolayers, which they argue can safely be extended to seawater bubbles at the surface of oceans.
+
 ??? note "Citation"
     Lhuissier H, Villermaux E. Bursting bubble aerosols. J Fluid Mech [Internet]. 2011 Nov 18;696:5–44. Available from: http://dx.doi.org/10.1017/jfm.2011.418
 
