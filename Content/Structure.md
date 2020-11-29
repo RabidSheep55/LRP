@@ -113,14 +113,24 @@ Is the sole drainage mechanism in bare bubbles - Plug Flow (Debregeas1998) Exper
 Show the Lhuissier Figure 8, where drainage occurs more rapidly than the expected Poiseuille flow. (Lhuissier2011). Why? MARGINAL REGENERATION
 
 #### Marginal Regeneration
+Use the Lhuissier Image.
+
 Very interesting film thinning effect caused by the presence of free moving surface particles (like surfactants!). When a bubble is sitting on a bulk liquid, this film draining mechanism is orders of magnitude more significant than the usual pressure-driven Poiseuille draining.
 
 *Easier to observe on flat films due to light, but also seen in bubbles*
 
+*Although they are more easily studied in flat films due to the need for light to pass through, This great picture by Lhuissier and Villermaux clearly shows the convective structures at the base of the bubble, indicative of marginal regeneration.*
+
 (Bhamla2017)
 (Mysels, Karol Joseph (1959). Soap films : studies of their thinning. Pergamon Press, London) <- FIRST PAPER
 (Lhuissier2011)
-(Breward2002) Also occurs in foams (bubbles connected to each other), with fluxes existing in the Plateau borders (the thicker parts where fluid accumulates in the boundaries)
+
+Physical explanations from different papers, compare:
+ - Nierstrasz1999 -> localized zones of high surface tension
+ - Bhamla2017 -> Details into the plumes dynamics (great data about soluble/insoluble surfactants)
+ - Lhuissier2011 -> Comes up Marginal pinching, and explanations for regeneration
+ - ChampougnyEvap2018 -> "Patches" formed near the meniscus
+ - Bruinsma1995 -> 
 
 **MAKE A TABLE WITH DRAINAGE MECHANISMS FOR SOLUBLE AND INSOLUBLE SURFACTANTS AT BELOW AND ABOVE CMC**
 
@@ -134,17 +144,18 @@ Old paper talks the stabilisation to a black film (looking at corrugations) (Vri
 Model for bubble thinning, and patterns exhibited by those spots (Shen2020)
 Notice for detergent type surfactants at a threshold concentration will allow formation (Manev1974)
 For solutions above CMC, observe formation before rupture (Bhamla2017)
+Intermolecular interactions balance out capillary suction (Breward2002)
 
 #### Rupture initialisation
 Discuss the different methods used to purposefully rupture a bubble, (spark, needle, EM field, ultrasound ...)
 
-#### Why?
+##### Why?
 What causes the bubble to become unstable and rupture?
 - (Vrij1968) Very early paper in 1968 talks about 'corrugations' on the surface, which cause spontaneous thinning at a critical wavelength due to an imbalance in surface Gibbs energy and van de Walls forces.
 - (ChampougnyEvap2018) mentions the introduction of instability due to ambient evaporation (when films are at critical thicknesses)
 - (Debregeas1998) High viscosity "bare" bubbles, said to burst when (at h ~ 70nm) "long-range Van der Waals interactions enhance film thinning"
 
-#### Where?
+##### Where?
 When the main drainage mechanism is not Marginal regeneration (either capillary or hydrostatic), there is radial symmetry, and hole nucleates at top of bubble (Debregeas1998, ChampougnyNotBare2016).
 
 And how the position of the hole depends on surfactant concentration (ChampougnyNotBare2016).

@@ -142,5 +142,17 @@ Develop mathematical model for describing the drainage mechanisms for soap films
 
 Breaks down the drainage in three sections: Away from the border, a flat film which follow viscous drainage, a "capillary-static" (flow is slow enough that curvature can be assumed constant) drainage flow at the Plateau border, and an intermediary transition region between both. Assume that the film has a material property hrup (rupture).
 
+When the film becomes so thin that intermolecular interactions between both free surfaces (bilayer) become significant, a balance can be reached with the capillary suction. *Black film thickness e-9 - e-8*.
+
 ??? note "Citation"
     BREWARD CJW, HOWELL PD. The drainage of a foam lamella. J Fluid Mech [Internet]. 2002 May 10;458:379–406. Available from: http://dx.doi.org/10.1017/S0022112002007930
+
+
+## Models for gravitationally-driven free-film drainage [:material-pdf-box:](https://doi.org/10.1023/A:1020320404339){:target="_blank"}
+
+Static meniscus region can be taken as analogous to a Plateau border (in foams and bubbles that are stuck together).
+
+Criticised Neirstrasz's model for assuming constant solute concentration in the Plateau border (Nierstrasz1999)
+
+??? note "Citation"
+    Braun, R., Snow, S. & Naire, S. Models for gravitationally-driven free-film drainage. Journal of Engineering Mathematics 43, 281–314 (2002). https://doi.org/10.1023/A:1020320404339

@@ -91,4 +91,6 @@ Need to find out how right they were... What do more recent papers say about thi
 ## Theory of hydrodynamic convection in soap films [:material-pdf-box:](https://doi.org/10.1016/0378-4371(95)00023-Z){:target="_blank"}
 > Films which show no convection patterns are called "rigid" and drain in hours
 
+**READ IN MORE DETAIL**
+
 Soluble surfactants that have a low viscosity, will lead to their amphiphiles being able to move freely and relatively quickly along the fluid boundaries. Whereas insoluble (molecules still in the solid phase), or high viscosity surfactants, will not, and form what is called a "rigid" surface.
