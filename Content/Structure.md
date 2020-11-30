@@ -147,29 +147,35 @@ For solutions above CMC, observe formation before rupture (Bhamla2017)
 Intermolecular interactions balance out capillary suction (Breward2002)
 
 #### Rupture initialisation
-Discuss the different methods used to purposefully rupture a bubble, (spark, needle, EM field, ultrasound ...)
-
 ##### Why?
 What causes the bubble to become unstable and rupture?
 - (Vrij1968) Very early paper in 1968 talks about 'corrugations' on the surface, which cause spontaneous thinning at a critical wavelength due to an imbalance in surface Gibbs energy and van de Walls forces.
 - (ChampougnyEvap2018) mentions the introduction of instability due to ambient evaporation (when films are at critical thicknesses)
 - (Debregeas1998) High viscosity "bare" bubbles, said to burst when (at h ~ 70nm) "long-range Van der Waals interactions enhance film thinning"
+- (Manev1974) Also talk about a critical thickness
+
+In some cases, it might be useful to trigger a bubble rupture event manually, look at how different experiments did it:
+-
+
+Discuss the different methods used to purposefully rupture a bubble, (spark, needle, EM field, ultrasound ...)
 
 ##### Where?
 When the main drainage mechanism is not Marginal regeneration (either capillary or hydrostatic), there is radial symmetry, and hole nucleates at top of bubble (Debregeas1998, ChampougnyNotBare2016).
 
 And how the position of the hole depends on surfactant concentration (ChampougnyNotBare2016).
 
-Nucleation seems to occur around a convection cell (rising plume mentionned in Marginal regeneration) (Lhuissier2011)
+Nucleation seems to occur around a convection cell (rising plume mentionned in Marginal regeneration) (Lhuissier2011) -> kinda contradicts what ChampougnyNotBare2016 found?
 
 
 ### Hole Development
 #### Rim Velocity
-Velocity of the initially circular opening hole. Primitively modelled by the Taylor-Culick velocity, but widely accepted to be an overestimation. Go over different propositions for this deviation:
+Velocity of the initially circular opening hole. Primitively modelled by the Taylor-Culick velocity (Culick1960), but widely accepted to be an overestimation. Go over different propositions for this deviation:
 
-- Some papers point to the small fluid particles that are ejected from the rim (Müller F, Stannarius R.)
-- Some mention a build-up of surfactant particles on the travelling edge, causing it to take an elongated shape, and develop a surface tension gradient (Bico J.)
+- Some papers point to the small fluid particles that are ejected from the rim (Muller2009)
+- Some mention a build-up of surfactant particles on the travelling edge, causing it to take an elongated shape, and develop a surface tension gradient (Bico2015)
 - A lot point to the formation of an 'aureole', where away from the opening rim, folds and 'cracks' are observed (which is where some of the energy could be going).
+
+"Opening and retraction of particulate soap films" <- Read to find if there's anything useful
 
 #### Appearance of instabilities
 The bubble's hole doesn't stay circular the whole time, instabilities arrise which cause certain structures to be observed:
