@@ -156,3 +156,11 @@ Criticised Neirstrasz's model for assuming constant solute concentration in the 
 
 ??? note "Citation"
     Braun, R., Snow, S. & Naire, S. Models for gravitationally-driven free-film drainage. Journal of Engineering Mathematics 43, 281–314 (2002). https://doi.org/10.1023/A:1020320404339
+
+
+## Stability of Soap Films: Hysteresis and Nucleation of Black Films [:material-pdf-box:](https://doi.org/10.1103/PhysRevLett.90.048302){:target="_blank"}
+
+Depending on capillary pressure, either a thick common black film or a newton black film will appear. Both are metastable equilibrium states. Observe a hysteresis effect in the transition between CBF and NBF, where for a range of pressures, either of the two films could be observed.
+
+??? note "Citation"
+    Casteletto V, Cantat I, Sarker D, Bausch R, Bonn D, Meunier J. Stability of soap films: hysteresis and nucleation of black films. Phys Rev Lett. 2003 Jan 30;90(4):048302.

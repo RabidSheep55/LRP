@@ -128,9 +128,9 @@ Very interesting film thinning effect caused by the presence of free moving surf
 Physical explanations from different papers, compare:
  - Nierstrasz1999 -> localized zones of high surface tension
  - Bhamla2017 -> Details into the plumes dynamics (great data about soluble/insoluble surfactants)
- - Lhuissier2011 -> Comes up Marginal pinching, and explanations for regeneration
+ - Lhuissier2011 -> It is the destabilisation of the pinching region which leads to marginal regeneration. Destabilisation of type Benard-Marangoni, driven by the surface tension difference across the region.
  - ChampougnyEvap2018 -> "Patches" formed near the meniscus
- - Bruinsma1995 -> 
+ - Bruinsma1995 ->
 
 **MAKE A TABLE WITH DRAINAGE MECHANISMS FOR SOLUBLE AND INSOLUBLE SURFACTANTS AT BELOW AND ABOVE CMC**
 
@@ -159,6 +159,9 @@ What causes the bubble to become unstable and rupture?
 When the main drainage mechanism is not Marginal regeneration (either capillary or hydrostatic), there is radial symmetry, and hole nucleates at top of bubble (Debregeas1998, ChampougnyNotBare2016).
 
 And how the position of the hole depends on surfactant concentration (ChampougnyNotBare2016).
+
+Nucleation seems to occur around a convection cell (rising plume mentionned in Marginal regeneration) (Lhuissier2011)
+
 
 ### Hole Development
 #### Rim Velocity
@@ -190,6 +193,9 @@ Mention the significant role bursting (unstable) bubbles have in:
 
 ### Discussion
 Discuss the unstable effects - personal opinion, what people did well etc
+
+Surfactants are vital or else drains mega fast - Viscosity for no surfactants
+Need further info about influence of evaporation at rupture
 
 ## Improving stability
 Looking back at all the effects described above, recap about how we could improve the stability of a bubble:
