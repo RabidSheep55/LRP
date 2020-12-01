@@ -88,9 +88,30 @@ Need to find out how right they were... What do more recent papers say about thi
     Vrij A, Overbeek JThG. Rupture of thin liquid films due to spontaneous fluctuations in thickness. J Am Chem Soc [Internet]. 1968 Jun;90(12):3074–8. Available from: http://dx.doi.org/10.1021/ja01014a015
 
 
+## Possible Mechanism for the Spontaneous Rupture of Thin, Free Liquid Films [:material-pdf-box:](https://doi.org/10.1039/DF9664200023){:target="_blank"}
+Describes a model for the thinning phenomena in free films, down to critical thickness and rupture. Comes up with a critical wavelength for fluctuations which cause rupture. This wavelength is dependant on surface tension and the "Free energy of interaction" (essentially the intermolecular forces acting in the surfactant bilayer).
+
+Black film rupture occurs unpredictably due to lack of control over environment: thermal shock, vibration, dust. These are unlikely to cause hole nucleation in thicker films due to high activation energy, mechanism is therefore only relevant in those thin bilayers.
+
+Unstable, or transient films, rupture spontaneously. Main working theory at the time is thermal fluctuations cause surface "corrugations", which grow over time, and when a critical wavelength is reached, cause spontaneous rupture.
+
 ## Theory of hydrodynamic convection in soap films [:material-pdf-box:](https://doi.org/10.1016/0378-4371(95)00023-Z){:target="_blank"}
 > Films which show no convection patterns are called "rigid" and drain in hours
 
 **READ IN MORE DETAIL**
 
 Soluble surfactants that have a low viscosity, will lead to their amphiphiles being able to move freely and relatively quickly along the fluid boundaries. Whereas insoluble (molecules still in the solid phase), or high viscosity surfactants, will not, and form what is called a "rigid" surface.
+
+## Thinning of soap films [:material-pdf-box:](https://doi.org/10.1016/0001-8686(94)80033-2){:target="_blank"}
+
+Newton black films are so thin that barely any light gets reflected, which causes them to appear invisible. (and black when in front of a black background).
+Mysels classified in 3 categories of surfactant films:
+
+- Rigid films: monolayers are extremely compact and rigid
+- Simple mobile films: Rapid turbulent motion observed (driven by marangoni effect, and said to be triggered by marginial regeneration flows Lhuissier2011), and "thickness of the center is uniform" eg for low conc soluble surfactants.
+- Irregular mobile films: High conc surfactant, larger thickness surfactants observed, "Stratification"
+
+If molecular interactions between the two surfactant monolayers are attractive, thinning accelerates rapidly and leads to rupture, but if they are repulsive, the pressure balanced capillary forces and a metastable equilibrium is reached. For the latter, "External disturbances, or thermal fluctuations, may produce its rupture."
+
+References the model what Vrij1968 came up with: When applied pressure is larger than disjoining pressure. Although his model yields good values for critical thickness, points out the discrepancies:
+ -

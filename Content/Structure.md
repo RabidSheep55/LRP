@@ -40,6 +40,10 @@ Two types of surfactant - soluble and insoluble, how that leads to different eff
 #### "Rigid" and "Mobile" film surfaces
 Based on surfactant solubility and viscosity (Bruinsma1995)
 Drainage mechansisms are studied in detail (Bhamla2017)
+Mysels classified in 3 categories (Langevin1994):
+    - Rigid films: monolayers are extremely compact and rigid
+    - Simple mobile films: Rapid turbulent motion observed (driven by marangoni effect, and said to be triggered by marginial regeneration flows Lhuissier2011), and "thickness of the center is uniform" eg for low conc soluble surfactants.
+    - Irregular mobile films: High conc surfactant, larger thickness surfactants observed, "Stratification"
 
 
 ### The Marangoni Effect
@@ -149,7 +153,11 @@ Intermolecular interactions balance out capillary suction (Breward2002)
 #### Rupture initialisation
 ##### Why?
 What causes the bubble to become unstable and rupture?
-- (Vrij1968) Very early paper in 1968 talks about 'corrugations' on the surface, which cause spontaneous thinning at a critical wavelength due to an imbalance in surface Gibbs energy and van de Walls forces.
+- (VrijDiscussion1966) Main working theory at the time is thermal fluctuations cause surface "corrugations", which grow over time, and when a critical wavelength is reached, cause spontaneous rupture. Proposes model for this wavelength, dependant on surface tension and the "Free energy of interaction" (essentially the intermolecular forces acting in the surfactant bilayer).
+    - (Langevin1994) criticised this: apparently critical thickness isn't dependant on bubble radius or surface tension?.
+- (Vrij1968) Very early paper in 1968 talks about 'corrugations' on the surface, which cause spontaneous thinning at a critical wavelength due to an imbalance in surface Gibbs energy (surface tension) and van de Walls forces.
+
+- Lhuissier2011 gives an energy of activation
 - (ChampougnyEvap2018) mentions the introduction of instability due to ambient evaporation (when films are at critical thicknesses)
 - (Debregeas1998) High viscosity "bare" bubbles, said to burst when (at h ~ 70nm) "long-range Van der Waals interactions enhance film thinning"
 - (Manev1974) Also talk about a critical thickness
@@ -168,6 +176,8 @@ Nucleation seems to occur around a convection cell (rising plume mentionned in M
 
 
 ### Hole Development
+Maybe talk about how its not really directly relevant to stability, as the bubble has already burst, but very interesting and has significant impact. One of the biggest use cases for bubbles is aerosol production, in sea water bla bla (Lhuissier2011). Undestanding the dynamics of rupture also give insight into some of the characterisitcs that make it stable.
+
 #### Rim Velocity
 Velocity of the initially circular opening hole. Primitively modelled by the Taylor-Culick velocity (Culick1960), but widely accepted to be an overestimation. Go over different propositions for this deviation:
 
@@ -202,6 +212,7 @@ Discuss the unstable effects - personal opinion, what people did well etc
 
 Surfactants are vital or else drains mega fast - Viscosity for no surfactants
 Need further info about influence of evaporation at rupture
+Although marginal regeneration was specifically observed in surface bubbles and foams, and we couldn't find a paper which studied its effect in "free", spherical bubbles. We could expect it to occur around the build-up of fluid at the base of concave bubbles (Shen2020)
 
 ## Improving stability
 Looking back at all the effects described above, recap about how we could improve the stability of a bubble:
