@@ -49,6 +49,8 @@ Impact of bubble bursting in beverage consumption. Pretty good overview of knowl
 
 Come up with bubble **fragility**: how sensitive they are to external perturbations (like solid objects, or dust). Carry out experiment and observe that bubbles with dilute concentrations (<0.8cmc) would burst upon contact with objects. Whereas for c=cmc and above, object would penetrate without damage.
 
+Also seems to find a link between hole nucleation point and surfactant concentration. 
+
 ??? note "Citation"
     Champougny L, Roché M, Drenckhan W, Rio E. Life and death of not so “bare” bubbles. Soft Matter [Internet]. 2016;12(24):5276–84. Available from: http://dx.doi.org/10.1039/c6sm00178e
 

@@ -82,6 +82,8 @@ Talks about thin soap films as having rough surfaces; if the corrugations have a
 
 **Showed typical time required for a van der Waals driven thickness instability to grow is proportional to the film thickness to the power of 5**
 
+Their model doesn't take into account the surface elasticity of the surfactant layers. Or the movement of surfactant molecules along mobile monolayers.
+
 Need to find out how right they were... What do more recent papers say about this one??
 
 ??? note "Citation"
@@ -95,12 +97,19 @@ Black film rupture occurs unpredictably due to lack of control over environment:
 
 Unstable, or transient films, rupture spontaneously. Main working theory at the time is thermal fluctuations cause surface "corrugations", which grow over time, and when a critical wavelength is reached, cause spontaneous rupture.
 
+??? note "Citation"
+    Vrij A. Possible mechanism for the spontaneous rupture of thin, free liquid films. Discuss Faraday Soc [Internet]. 1966;42:23. Available from: http://dx.doi.org/10.1039/DF9664200023
+
 ## Theory of hydrodynamic convection in soap films [:material-pdf-box:](https://doi.org/10.1016/0378-4371(95)00023-Z){:target="_blank"}
 > Films which show no convection patterns are called "rigid" and drain in hours
 
 **READ IN MORE DETAIL**
 
 Soluble surfactants that have a low viscosity, will lead to their amphiphiles being able to move freely and relatively quickly along the fluid boundaries. Whereas insoluble (molecules still in the solid phase), or high viscosity surfactants, will not, and form what is called a "rigid" surface.
+
+??? note "Citation"
+    R. Bruinsma, Theory of hydrodynamic convection in soap films, Physica A: Statistical Mechanics and its Applications, Volume 216, Issues 1–2, 1995, Pages 59-76, ISSN 0378-4371, https://doi.org/10.1016/0378-4371(95)00023-Z. (http://www.sciencedirect.com/science/article/pii/037843719500023Z)
+
 
 ## Thinning of soap films [:material-pdf-box:](https://doi.org/10.1016/0001-8686(94)80033-2){:target="_blank"}
 
@@ -114,4 +123,7 @@ Mysels classified in 3 categories of surfactant films:
 If molecular interactions between the two surfactant monolayers are attractive, thinning accelerates rapidly and leads to rupture, but if they are repulsive, the pressure balanced capillary forces and a metastable equilibrium is reached. For the latter, "External disturbances, or thermal fluctuations, may produce its rupture."
 
 References the model what Vrij1968 came up with: When applied pressure is larger than disjoining pressure. Although his model yields good values for critical thickness, points out the discrepancies:
- -
+ - Experiments at the time found values weren't dependant on bubble radius and surfactant concentration... (which doesnt much sense imo)
+
+??? note "Citation"
+    D. Langevin, A.A. Sonin,Thinning of soap films,Advances in Colloid and Interface Science,Volume 51,1994,Pages 1-27,ISSN 0001-8686,https://doi.org/10.1016/0001-8686(94)80033-2.(http://www.sciencedirect.com/science/article/pii/0001868694800332)

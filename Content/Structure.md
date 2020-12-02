@@ -176,7 +176,7 @@ Nucleation seems to occur around a convection cell (rising plume mentionned in M
 
 
 ### Hole Development
-Maybe talk about how its not really directly relevant to stability, as the bubble has already burst, but very interesting and has significant impact. One of the biggest use cases for bubbles is aerosol production, in sea water bla bla (Lhuissier2011). Undestanding the dynamics of rupture also give insight into some of the characterisitcs that make it stable.
+Maybe talk about how its not really directly relevant to stability, as the bubble has already burst, but very interesting and has significant impact. One of the biggest use cases for bubbles is aerosol production, in sea water bla bla (Lhuissier2011). Undestanding the dynamics of rupture also give insight into some of the characterisitcs that make it stable, and can be used to find the critical film thickness (Lhuissier2011).
 
 #### Rim Velocity
 Velocity of the initially circular opening hole. Primitively modelled by the Taylor-Culick velocity (Culick1960), but widely accepted to be an overestimation. Go over different propositions for this deviation:
@@ -186,6 +186,11 @@ Velocity of the initially circular opening hole. Primitively modelled by the Tay
 - A lot point to the formation of an 'aureole', where away from the opening rim, folds and 'cracks' are observed (which is where some of the energy could be going).
 
 "Opening and retraction of particulate soap films" <- Read to find if there's anything useful
+
+Rayleigh does simple energy conservation
+Culick adds viscous effects and liquid buildup along the rim
+New effects observed try to explain the lower observed values
+
 
 #### Appearance of instabilities
 The bubble's hole doesn't stay circular the whole time, instabilities arrise which cause certain structures to be observed:
@@ -214,13 +219,19 @@ Surfactants are vital or else drains mega fast - Viscosity for no surfactants
 Need further info about influence of evaporation at rupture
 Although marginal regeneration was specifically observed in surface bubbles and foams, and we couldn't find a paper which studied its effect in "free", spherical bubbles. We could expect it to occur around the build-up of fluid at the base of concave bubbles (Shen2020)
 
+Drainage mechanisms and rupture are a priori linked, as thinner films are more likely to rupture. But this onset of bursting, although quantitatively descried is not yet fully understood.
+
+Overall, many effects still not fully understood, especially those pertaining to the drainage dynamics and hole nucleation.
+
 ## Improving stability
 Looking back at all the effects described above, recap about how we could improve the stability of a bubble:
 
 - Bubble make up
-    - Surfactant concentration
-    - Viscosity (more viscous live longer it seems, but don't form bubbles)
-    - Larger bubbles drain slower (Debregeas1998)
+    - Surfactant type:
+        - Concentration: prefer higher concentration, to stiffen the surface, reduce effect of marginal regeneration
+        - Solubility: prefer insoluble surfactants to soluble
+    - Viscosity (more viscous live longer it seems, but don't form bubbles) (Debregeas1998)
+    - Larger bubbles drain slower (Debregeas1998), but become more sensitive to external fluctuations.
 - Environment (low-high humidity, velocities, EM field)
 
 Develop a few statements over 2-3 important points for each section
