@@ -55,6 +55,8 @@ Study of particulate film dynamics: thin films which have solid hydrophobic part
 
 Not too sure about their result considering their bilayer experiments: it agrees with the Taylor-Culick rim velocity equation (when accounting for the inertia of the beads), which has been "disproven" time and time again (I think).
 
+Taylor-Culick is accurate for thin bare films, but breaks down for viscous films and elastic surfaces. Cites (Debregeas1998) and (Savva2009)
+
 ??? note "Citation"
     Timounay Y, Lorenceau E, Rouyer F. Opening and retraction of particulate soap films. EPL [Internet]. 2015 Jul 1;111(2):26001. Available from: http://dx.doi.org/10.1209/0295-5075/111/26001
 
@@ -127,3 +129,27 @@ References the model what Vrij1968 came up with: When applied pressure is larger
 
 ??? note "Citation"
     D. Langevin, A.A. Sonin,Thinning of soap films,Advances in Colloid and Interface Science,Volume 51,1994,Pages 1-27,ISSN 0001-8686,https://doi.org/10.1016/0001-8686(94)80033-2.(http://www.sciencedirect.com/science/article/pii/0001868694800332)
+
+
+## Viscous Sheet Retraction  [:material-pdf-box:](https://doi.org/10.1017/S0022112009005795){:target="_blank"}
+The film edge only reaches the Taylor-Culick velocity after a transient. Develop new set of equations for the "speed of the film edge at the onset of rupture". Also look into maximum film thickness.
+
+Found that for bare high viscosity films, fluid doesn't accumulate in the rim, and the radius of the hole actually grows exponentially.
+
+Define the **Ohnesorge number**: expresses the relative effects of viscosity and surface tension. Where in the high Oh regime, viscosity dominates and no rim is formed, and in the low Oh regime, "capillary wave disturbances" (the cracks and folds observed by...) are actually formed
+
+
+**Has a ton of links to applications of retracting thin films and atomization in the introduction!**
+
+??? note "Citation"
+     SAVVA N, BUSH JWM. Viscous sheet retraction. J Fluid Mech [Internet]. 2009 May 10;626:211–40. Available from: http://dx.doi.org/10.1017/S0022112009005795
+
+
+## On the bursting of viscous films [:material-pdf-box:](https://doi.org/10.1063/1.869942){:target="_blank"}
+
+Quick paper, has a pretty good diagram for the different retraction regimes. They're the ones to come up with the **Ohnesorge number**, they just don't call it that.
+
+Find that in the third regime, no rim happens
+
+??? note "Citation"
+    Brenner1999

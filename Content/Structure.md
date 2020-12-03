@@ -179,7 +179,13 @@ Nucleation seems to occur around a convection cell (rising plume mentionned in M
 Maybe talk about how its not really directly relevant to stability, as the bubble has already burst, but very interesting and has significant impact. One of the biggest use cases for bubbles is aerosol production, in sea water bla bla (Lhuissier2011). Undestanding the dynamics of rupture also give insight into some of the characterisitcs that make it stable, and can be used to find the critical film thickness (Lhuissier2011).
 
 #### Rim Velocity
-Velocity of the initially circular opening hole. Primitively modelled by the Taylor-Culick velocity (Culick1960), but widely accepted to be an overestimation. Go over different propositions for this deviation:
+Velocity of the initially circular opening hole. Primitively modelled by the Taylor-Culick velocity (Culick1960), but widely accepted to be an overestimation.
+
+In fact is neglects viscosity (Brenner1999), make a paragraph about effect of viscosity
+
+
+
+Go over different propositions for this deviation:
 
 - Some papers point to the small fluid particles that are ejected from the rim (Muller2009)
 - Some mention a build-up of surfactant particles on the travelling edge, causing it to take an elongated shape, and develop a surface tension gradient (Bico2015)
@@ -187,10 +193,8 @@ Velocity of the initially circular opening hole. Primitively modelled by the Tay
 
 "Opening and retraction of particulate soap films" <- Read to find if there's anything useful
 
-Rayleigh does simple energy conservation
-Culick adds viscous effects and liquid buildup along the rim
-New effects observed try to explain the lower observed values
-
+(Timounay2015)
+(Savva2009)
 
 #### Appearance of instabilities
 The bubble's hole doesn't stay circular the whole time, instabilities arrise which cause certain structures to be observed:
@@ -211,6 +215,9 @@ Mention the significant role bursting (unstable) bubbles have in:
 - Aerosol production
 - Liquid atomization
 - Drug delivery
+
+READ (de Gennes, P. G., Brochart-Wyart, F. & Quer´ e, D. ´ 2003 Capillarity and Wetting Phenomena:
+Drops, Bubbles, Pearls, Waves. Springer.)
 
 ### Discussion
 Discuss the unstable effects - personal opinion, what people did well etc
