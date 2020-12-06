@@ -43,6 +43,8 @@ Great overview article, goes over the mechanisms of amphiphilic surfactant molec
 
 Explains how P. C. Petit et. al. provide an explanation for the deviation from the Tayor-Culick rim velocity: surfactant molecules build-up along the rim, inducing gradient in surface tension with the rest of the film. This causes its cross-section to deviate to an elongated circular shape.
 
+Surface viscosity is dependant on how fast surfactant molecules can diffuse from the bulk to film surfaces when it is streched
+
 ??? note "Citation"
     Bico J. Cracks in bursting soap films. J Fluid Mech [Internet]. 2015 Jul 30;778:1–4. Available from: http://dx.doi.org/10.1017/jfm.2015.376
 
@@ -153,3 +155,12 @@ Find that in the third regime, no rim happens
 
 ??? note "Citation"
     Brenner1999
+
+
+## Holes and cracks in rigid foam films [:material-pdf-box:](https://doi.org/110.1017/jfm.2015.278){:target="_blank"}
+Studying high rigidity films, and their opening velocity: finds strong deviation from Taylor Culick, can observe cracks. Base it on surface elasticity
+
+Surface elasticity: derivative of surface tension with respect to relative changes in surface area.
+
+??? note "Citation"
+    Petit2015

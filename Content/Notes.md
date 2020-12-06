@@ -53,3 +53,27 @@ ebsco
 ## Figures and Equations
 Put reference in the caption
 Limit equations as much as Possible. Give 3-4 line description of equations that are mentions
+
+
+## Report comments
+- [x] Title other way round
+Rephrase objectives potentially
+In the discussion for part 1: we have have discussed ley phenomenomena, but there can be more
+- [x] CMC in lowercase letters or spell it out
+If have space put nomenclature
+
+conclusions: for every chapter report the 2 points.
+Critical review
+(part 1) develop discussion around main aspect, and cite others
+
+write references in more compact way, maybe remove the website links, sometimes even don't put the paper's title.
+
+Discussion Discussion Discussion
+
+- [x] Talk about what Poiseuille and plug flow are.
+Show equations potentially.
+
+Figures are good, shouldn't be more than 10%
+Use them to complement text
+
+- [ ] "Adapted from" for figures that I change!!!!!

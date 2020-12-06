@@ -37,6 +37,8 @@ Two types of surfactant - soluble and insoluble, how that leads to different eff
 (ChampougnyNotBare2016)
 (Bhamla MS et al 2017): stability ++ with surfactant
 
+**(Bico2015) has a good diagram for those effects**
+
 #### "Rigid" and "Mobile" film surfaces
 Based on surfactant solubility and viscosity (Bruinsma1995)
 Drainage mechansisms are studied in detail (Bhamla2017)
@@ -45,11 +47,14 @@ Mysels classified in 3 categories (Langevin1994):
     - Simple mobile films: Rapid turbulent motion observed (driven by marangoni effect, and said to be triggered by marginial regeneration flows Lhuissier2011), and "thickness of the center is uniform" eg for low conc soluble surfactants.
     - Irregular mobile films: High conc surfactant, larger thickness surfactants observed, "Stratification"
 
+Surface viscosity is dependant on how fast surfactant molecules can diffuse from the bulk to film surfaces when it is streched (Bico2015)
 
 ### The Marangoni Effect
 Very prevalent effect, which is the driving mechanism behind the transient structures observed on bubble surface (different thicknesses lead to different light interference resulting in colours).
 
 Is what gives a certain elasticity to the film. Marangoni effect will carry surfactnat molecules from zones of high concentration to low concentration. So like if we stretch the film, surfactant concentration decreases in certain areas, increasing surface tension, and driving more low-surface tension zones towards it.
+
+Compensate for the weight of the film (Bico2015)
 
 Mention that this mechanism also plays a role in film thinning and drainage.
 
@@ -216,8 +221,8 @@ Mention the significant role bursting (unstable) bubbles have in:
 - Liquid atomization
 - Drug delivery
 
-READ (de Gennes, P. G., Brochart-Wyart, F. & Quer´ e, D. ´ 2003 Capillarity and Wetting Phenomena:
-Drops, Bubbles, Pearls, Waves. Springer.)
+READ (de Gennes, P. G., Brochart-Wyart, F. & Quer´ e, D. ´ 2003 Capillarity and Wetting Phenomena: Drops, Bubbles, Pearls, Waves. Springer.)
+(Daughter bubble cascades produced by folding of ruptured thin films, Bird)
 
 ### Discussion
 Discuss the unstable effects - personal opinion, what people did well etc
@@ -235,11 +240,12 @@ Looking back at all the effects described above, recap about how we could improv
 
 - Bubble make up
     - Surfactant type:
-        - Concentration: prefer higher concentration, to stiffen the surface, reduce effect of marginal regeneration
-        - Solubility: prefer insoluble surfactants to soluble
-    - Viscosity (more viscous live longer it seems, but don't form bubbles) (Debregeas1998)
+        - Concentration: prefer higher concentration, to stiffen the surface, reduce effect of marginal regeneration ()
+        - Solubility: prefer insoluble surfactants to soluble as rigid surfaces drain slower (Petit2015, Bhamla2017, ChampougnyNotBare2016)
+    - Viscosity (more viscous drain slower, and therefore live longer) (Debregeas1998, Savva2009, Brenner1999)
     - Larger bubbles drain slower (Debregeas1998), but become more sensitive to external fluctuations.
 - Environment (low-high humidity, velocities, EM field)
+    - Although more research is required to confirm this, but placing the bubble in a humid environemnt, which would reduce the effect of evaportation could be useful (ChampougnyEvap2018)
 
 Develop a few statements over 2-3 important points for each section
 
