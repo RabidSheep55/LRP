@@ -164,3 +164,11 @@ Surface elasticity: derivative of surface tension with respect to relative chang
 
 ??? note "Citation"
     Petit2015
+
+
+## On the births of film  drops from bubbles bursting on seawater surfaces [:material-pdf-box:](https://doi.org/10.1029/98JC02233){:target="_blank"}
+**READ**
+
+
+??? note "Citation"
+    Spiel, D. E. (1998), On the births of film drops from bubbles bursting on seawater surfaces, J. Geophys. Res., 103(C11), 24907–24918.

@@ -58,21 +58,12 @@ Compensate for the weight of the film (Bico2015)
 
 Mention that this mechanism also plays a role in film thinning and drainage.
 
-(Bhamla MS et al 2017)
-
-### Bubble Coalescence
-The effects behind the merging of bubbles
-
-### Behaviour in Electromagnetic fields
-NEED TO GATHER SOURCES FOR THIS PART
-(look into the levitation of bubbles using this effect)
-
-*Moses Effect*: Deformation of a surface due by a magnetic field
-
-When created, a bubble often has a charge, and that can mess with experiments. Emphasise importance of mitigating or keeping that in consideration. (some experiments do it well, others don't)
+(Bhamla MS et al 2017) (Nierstrasz1999)
 
 ### (Possible other sections)
 - Bubble size and shape, the *Young-Laplace Equation*, and link with contained volume pressure. (Lhuissier2011 has a pretty good description)
+- Bubble coalescence, when two merge, forms a brand new one which has same characteristis as a Young film
+- Behaviour in EM fields: *Moses Effect*
 
 ### Applications
 Applications of these stable films:
@@ -213,6 +204,11 @@ Briefly introduce the Rayleigh-Taylor and Kelvin-Helmholtz instabilities
 ### The aftermath
 After the bubble has burst, it will either disintegrate into a very thin aerosol mist, or form greater-sized droplets. This has significant impacts, especially in the analysis of this effect in sea water.
 
+(Modini2013) Film and jet drops
+    * Talk about their baller experimental setup
+    * Apparently other models differ by orders of magnitude
+
+(Spiel1998)
 
 ### Applications
 Mention the significant role bursting (unstable) bubbles have in:
@@ -242,6 +238,7 @@ Looking back at all the effects described above, recap about how we could improv
     - Surfactant type:
         - Concentration: prefer higher concentration, to stiffen the surface, reduce effect of marginal regeneration ()
         - Solubility: prefer insoluble surfactants to soluble as rigid surfaces drain slower (Petit2015, Bhamla2017, ChampougnyNotBare2016)
+        - Diffusivity: if soluble surfactant, want really high diffusivity, so it can quickly react to external fluctuation (like if films stretches, want particles to move quick from bulk)
     - Viscosity (more viscous drain slower, and therefore live longer) (Debregeas1998, Savva2009, Brenner1999)
     - Larger bubbles drain slower (Debregeas1998), but become more sensitive to external fluctuations.
 - Environment (low-high humidity, velocities, EM field)
