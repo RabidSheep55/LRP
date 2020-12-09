@@ -219,6 +219,7 @@ Mention the significant role bursting (unstable) bubbles have in:
 
 READ (de Gennes, P. G., Brochart-Wyart, F. & Quer´ e, D. ´ 2003 Capillarity and Wetting Phenomena: Drops, Bubbles, Pearls, Waves. Springer.)
 (Daughter bubble cascades produced by folding of ruptured thin films, Bird)
+Stabilisatio of bubbles and foams, Brent S Murray (applications in the food industry, + it looks like there's a list in the intro)
 
 ### Discussion
 Discuss the unstable effects - personal opinion, what people did well etc
@@ -243,6 +244,8 @@ Looking back at all the effects described above, recap about how we could improv
     - Larger bubbles drain slower (Debregeas1998), but become more sensitive to external fluctuations.
 - Environment (low-high humidity, velocities, EM field)
     - Although more research is required to confirm this, but placing the bubble in a humid environemnt, which would reduce the effect of evaportation could be useful (ChampougnyEvap2018)
+
+(READ BHAMLA)
 
 Develop a few statements over 2-3 important points for each section
 
